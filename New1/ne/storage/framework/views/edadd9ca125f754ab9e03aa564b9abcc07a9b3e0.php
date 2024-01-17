@@ -1,0 +1,1 @@
+<?php echo e($visitor->updated_at->diffForHumans(), false); ?><?php /**PATH C:\wamp64\www\hype-dappr\resources\views/admin/partials/actions/visitor/last_visits.blade.php ENDPATH**/ ?>

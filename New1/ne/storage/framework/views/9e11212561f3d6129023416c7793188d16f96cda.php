@@ -1,0 +1,2 @@
+<li class="d-none d-sm-inline-block"><a href="<?php echo e(url('/'), false); ?>"><?php echo e(trans('theme.nav.home'), false); ?></a></li>
+<?php /**PATH C:\wamp64\www\hype-dappr\public\themes\default/views/headers/lists/home.blade.php ENDPATH**/ ?>

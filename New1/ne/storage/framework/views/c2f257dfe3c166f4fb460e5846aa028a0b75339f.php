@@ -1,0 +1,2 @@
+<td><span class="label label-default"><?php echo e($category->attrs_list_count, false); ?></span></td>
+<?php /**PATH /home/dappr/public_html/test.dappr.com.au/resources/views/admin/category/partials/attributes.blade.php ENDPATH**/ ?>

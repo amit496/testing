@@ -1,0 +1,10 @@
+# Disallowing all crawlers
+User-agent: *
+Disallow: /
+
+User-agent: Adsbot-Google
+Disallow: /
+
+User-agent: *
+Disallow: /database/
+Disallow: /scripts/
