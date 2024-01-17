@@ -1,0 +1,1 @@
+<span class="label label-default"><?php echo e($customer->orders_count, false); ?></span><?php /**PATH /home/dappr/public_html/test.dappr.com.au/resources/views/admin/partials/actions/customer/orders_count.blade.php ENDPATH**/ ?>

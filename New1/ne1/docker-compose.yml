@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  hypedappr:
+    image: hypedappr
+    build:
+      context: .
+      dockerfile: ./Dockerfile

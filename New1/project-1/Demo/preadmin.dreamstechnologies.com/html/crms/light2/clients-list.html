@@ -1,0 +1,1165 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<!-- Mirrored from preadmin.dreamstechnologies.com/html/crms/light2/clients-list.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Dec 2023 12:50:40 GMT -->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
+    <title>Preadmin - Bootstrap Admin Template</title>
+
+    <!-- Favicons -->
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+
+    <!-- Fontawesome CSS --> 
+	<link rel="stylesheet" href="assets/plugins/fontawesome/css/fontawesome.min.css">
+	<link rel="stylesheet" href="assets/plugins/fontawesome/css/all.min.css">
+
+    <!-- Feathericon CSS -->
+    <link rel="stylesheet" href="assets/css/feather.css">
+
+    <!-- Datatable CSS-->
+    <link rel="stylesheet" href="assets/css/dataTables.bootstrap4.min.css">
+
+    <!-- Select2 CSS -->
+    <link rel="stylesheet" href="assets/css/select2.min.css">
+    
+    <!-- Main CSS -->
+    <link rel="stylesheet" href="assets/css/style.css">
+    
+</head>
+
+<body>
+    <!-- Main Wrapper -->
+    <div class="main-wrapper">
+        <!-- Header -->
+        <div class="header">
+            <!-- Logo -->
+            <div class="header-left">
+                <a href="index.html" class="logo">
+                    <img src="assets/img/logo.png" alt="Logo">
+                </a>
+                <a href="index.html" class="logo logo-small">
+                    <img src="assets/img/logo-small.png" alt="Logo" width="30" height="30">
+                </a>
+            </div>
+            <!-- /Logo -->
+            
+            <a href="javascript:void(0);" id="toggle_btn">
+                <span class="bar-icon">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </span>
+            </a>
+            
+            <div class="top-nav-search">
+                <form>
+                    <input type="text" class="form-control" />
+                    <button class="btn" type="submit"><i class="feather-search"></i></button>
+                </form>
+            </div>
+            
+            <!-- Mobile Menu Toggle -->
+            <a id="mobile_btn" class="mobile_btn float-left" href="#sidebar">
+                <i class="feather-menu" aria-hidden="true"></i>
+            </a>
+            <!-- /Mobile Menu Toggle -->
+            
+            <!-- Header Right Menu -->
+            <ul class="nav user-menu float-right">
+                <li class="nav-item dropdown d-none d-sm-block">
+                    <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown"><i class="feather-bell"></i> <span class="badge badge-pill bg-primary float-right">3</span></a>
+                    <div class="dropdown-menu notifications">
+                        <div class="topnav-dropdown-header">
+                            <span>Notifications</span>
+                        </div>
+                        <div class="drop-scroll">
+                            <ul class="notification-list">
+                                <li class="notification-message">
+                                    <a href="activities.html">
+                                        <div class="media">
+                                            <span class="avatar">
+                                                <img alt="John Doe" src="assets/img/user.jpg" class="img-fluid">
+                                            </span>
+                                            <div class="media-body">
+                                                <p class="noti-details"><span class="noti-title">John Doe</span> added new task <span class="noti-title">Patient appointment booking</span></p>
+                                                <p class="noti-time"><span class="notification-time">4 mins ago</span></p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="notification-message">
+                                    <a href="activities.html">
+                                        <div class="media">
+                                            <span class="avatar">V</span>
+                                            <div class="media-body">
+                                                <p class="noti-details"><span class="noti-title">Tarah Shropshire</span> changed the task name <span class="noti-title">Appointment booking with payment gateway</span></p>
+                                                <p class="noti-time"><span class="notification-time">6 mins ago</span></p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="notification-message">
+                                    <a href="activities.html">
+                                        <div class="media">
+                                            <span class="avatar">L</span>
+                                            <div class="media-body">
+                                                <p class="noti-details"><span class="noti-title">Misty Tison</span> added <span class="noti-title">Domenic Houston</span> and <span class="noti-title">Claire Mapes</span> to project <span class="noti-title">Doctor available module</span></p>
+                                                <p class="noti-time"><span class="notification-time">8 mins ago</span></p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="notification-message">
+                                    <a href="activities.html">
+                                        <div class="media">
+                                            <span class="avatar">G</span>
+                                            <div class="media-body">
+                                                <p class="noti-details"><span class="noti-title">Rolland Webber</span> completed task <span class="noti-title">Patient and Doctor video conferencing</span></p>
+                                                <p class="noti-time"><span class="notification-time">12 mins ago</span></p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="notification-message">
+                                    <a href="activities.html">
+                                        <div class="media">
+                                            <span class="avatar">V</span>
+                                            <div class="media-body">
+                                                <p class="noti-details"><span class="noti-title">Bernardo Galaviz</span> added new task <span class="noti-title">Private chat module</span></p>
+                                                <p class="noti-time"><span class="notification-time">2 days ago</span></p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="topnav-dropdown-footer">
+                            <a href="activities.html">View all Notifications</a>
+                        </div>
+                    </div>
+                </li>
+                <li class="nav-item dropdown d-none d-sm-block">
+                    <a href="chat.html" id="open_msg_box" class="hasnotifications nav-link"><i class="feather-user"></i> <span class="badge badge-pill bg-primary float-right">8</span></a>
+                </li>
+                <li class="nav-item dropdown has-arrow">
+                    <a href="#" class="dropdown-toggle nav-link user-link" data-toggle="dropdown">
+                        <span class="user-img">
+                            <img class="rounded-circle" src="assets/img/user-icon.png" alt="Admin">
+                        </span>
+                        <span class="ad-text">Admin</span>
+                    </a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="profile.html">My Profile</a>
+                        <a class="dropdown-item" href="edit-profile.html">Edit Profile</a>
+                        <a class="dropdown-item" href="settings.html">Settings</a>
+                        <a class="dropdown-item" href="login.html">Logout</a>
+                    </div>
+                </li>
+            </ul>
+            <!-- /Header Right Menu -->
+        </div>
+        <!-- /Header -->
+
+        <!-- Sidebar -->
+        <div class="sidebar" id="sidebar">
+            <div class="sidebar-inner slimscroll">
+                <div class="sidebar-menu">
+                    <ul>
+                        <li>
+                            <a href="index.html"><i class="fa fa-home back-icon"></i> Back to Home</a>
+                        </li>
+                        <li class="menu-title">Chat Groups <a href="#" class="add-user-icon" data-toggle="modal" data-target="#add_group"><i class="fa fa-plus"></i></a></li>
+                        <li>
+                            <a href="chat.html">#General</a>
+                        </li>
+                        <li>
+                            <a href="chat.html">#Video Responsive Survey</a>
+                        </li>
+                        <li>
+                            <a href="chat.html">#500rs</a>
+                        </li>
+                        <li>
+                            <a href="chat.html">#warehouse</a>
+                        </li>
+                        <li class="menu-title">Direct Chats <a href="#" class="add-user-icon" data-toggle="modal" data-target="#add_chat_user"><i class="fa fa-plus"></i></a></li>
+                        <li>
+                            <a href="chat.html"><span class="chat-avatar-sm user-img"><img src="assets/img/user.jpg" alt="" class="rounded-circle"><span class="status online"></span></span> John Doe <span class="badge badge-pill bg-danger float-right">1</span></a>
+                        </li>
+                        <li>
+                            <a href="chat.html"><span class="chat-avatar-sm user-img"><img src="assets/img/user.jpg" alt="" class="rounded-circle"><span class="status offline"></span></span> Richard Miles <span class="badge badge-pill bg-danger float-right">18</span></a>
+                        </li>
+                        <li>
+                            <a href="chat.html"><span class="chat-avatar-sm user-img"><img src="assets/img/user.jpg" alt="" class="rounded-circle"><span class="status away"></span></span> John Smith</a>
+                        </li>
+                        <li class="active">
+                            <a href="chat.html"><span class="chat-avatar-sm user-img"><img src="assets/img/user.jpg" alt="" class="rounded-circle"><span class="status online"></span></span> Mike Litorus <span class="badge badge-pill bg-danger float-right">108</span></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- /Sidebar -->
+
+        <!-- Page Wrapper -->
+        <div class="page-wrapper">
+            <div class="content container-fluid">
+                <div class="row">
+                    <div class="col-sm-4 col-3">
+                        <h4 class="page-title">Clients</h4>
+                    </div>
+                    <div class="col-sm-8 col-9 text-right m-b-20">
+                        <a href="#" class="btn btn-primary btn-rounded float-right" data-toggle="modal" data-target="#add_client"><i class="fa fa-plus"></i> Add Client</a>
+                        <div class="view-icons">
+                            <a href="clients.html" class="grid-view btn btn-link"><i class="feather-grid"></i></a>
+                            <a href="clients-list.html" class="list-view btn btn-link active"><i class="feather-menu"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row filter-row">
+                    <div class="col-sm-6 col-md-3">
+                        <div class="form-group form-focus">
+                            <label class="focus-label">Client ID</label>
+                            <input type="text" class="form-control floating">
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-3">
+                        <div class="form-group form-focus">
+                            <label class="focus-label">Client Name</label>
+                            <input type="text" class="form-control floating">
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-3">
+                        <div class="form-group form-focus select-focus">
+                            <label class="focus-label">Company</label>
+                            <select class="select floating">
+                                <option>Select Company</option>
+                                <option>Global Technologies</option>
+                                <option>Delta Infotech</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-3">
+                        <a href="#" class="btn btn-primary btn-block"> Search </a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="table-responsive">
+                            <table class="table table-striped custom-table datatable">
+                                <thead>
+                                    <tr>
+                                        <th>Name</th>
+                                        <th>Client ID</th>
+                                        <th>Contact Person</th>
+                                        <th>Email</th>
+                                        <th>Mobile</th>
+                                        <th>Status</th>
+                                        <th class="text-right">Action</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <a href="client-profile.html" class="avatar">G</a>
+                                            <h2><a href="client-profile.html">Global Technologies</a></h2>
+                                        </td>
+                                        <td>CLT-0001</td>
+                                        <td>Barry Cuda</td>
+                                        <td><a href="../../../cdn-cgi/l/email-protection.html" class="__cf_email__" data-cfemail="6f0d0e1d1d160c1a0b0e2f0a170e021f030a410c0002">[email&#160;protected]</a></td>
+                                        <td>9876543210</td>
+                                        <td>
+                                            <div class="dropdown action-label">
+                                                <a href="#" class="btn btn-white btn-sm btn-rounded dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="far fa-dot-circle text-success"></i> Active </a>
+                                                <div class="dropdown-menu">
+                                                    <a class="dropdown-item" href="#"><i class="far fa-dot-circle text-success"></i> Active</a>
+                                                    <a class="dropdown-item" href="#"><i class="far fa-dot-circle text-danger"></i> Inactive</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td class="text-right">
+                                            <div class="dropdown dropdown-action">
+                                                <a href="#" class="action-icon dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="feather-more-vertical"></i></a>
+                                                <div class="dropdown-menu dropdown-menu-right">
+                                                    <a class="dropdown-item" href="#" data-toggle="modal" data-target="#edit_client"><i class="fas fa-pen m-r-5"></i> Edit</a>
+                                                    <a class="dropdown-item" href="#" data-toggle="modal" data-target="#delete_client"><i class="far fa-trash-alt m-r-5"></i> Delete</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <a href="client-profile.html" class="avatar">D</a>
+                                            <h2><a href="client-profile.html">Delta Infotech</a></h2>
+                                        </td>
+                                        <td>CLT-0002</td>
+                                        <td>Tressa Wexler</td>
+                                        <td><a href="../../../cdn-cgi/l/email-protection.html" class="__cf_email__" data-cfemail="6612140315150711031e0a031426031e070b160a034805090b">[email&#160;protected]</a></td>
+                                        <td>9876543210</td>
+                                        <td>
+                                            <div class="dropdown action-label">
+                                                <a href="#" class="btn btn-white btn-sm btn-rounded dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="far fa-dot-circle text-danger"></i> Inactive </a>
+                                                <div class="dropdown-menu">
+                                                    <a class="dropdown-item" href="#"><i class="far fa-dot-circle text-success"></i> Active</a>
+                                                    <a class="dropdown-item" href="#"><i class="far fa-dot-circle text-danger"></i> Inactive</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td class="text-right">
+                                            <div class="dropdown dropdown-action">
+                                                <a href="#" class="action-icon dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="feather-more-vertical"></i></a>
+                                                <div class="dropdown-menu dropdown-menu-right">
+                                                    <a class="dropdown-item" href="#" data-toggle="modal" data-target="#edit_client"><i class="fas fa-pen m-r-5"></i> Edit</a>
+                                                    <a class="dropdown-item" href="#" data-toggle="modal" data-target="#delete_client"><i class="far fa-trash-alt m-r-5"></i> Delete</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <a href="client-profile.html" class="avatar">C</a>
+                                            <h2><a href="client-profile.html">Cream Inc</a></h2>
+                                        </td>
+                                        <td>CLT-0003</td>
+                                        <td>Ruby Bartlett</td>
+                                        <td><a href="../../../cdn-cgi/l/email-protection.html" class="__cf_email__" data-cfemail="8cfef9eef5eeedfef8e0e9f8f8cce9f4ede1fce0e9a2efe3e1">[email&#160;protected]</a></td>
+                                        <td>9876543210</td>
+                                        <td>
+                                            <div class="dropdown action-label">
+                                                <a href="#" class="btn btn-white btn-sm btn-rounded dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="far fa-dot-circle text-success"></i> Active </a>
+                                                <div class="dropdown-menu">
+                                                    <a class="dropdown-item" href="#"><i class="far fa-dot-circle text-success"></i> Active</a>
+                                                    <a class="dropdown-item" href="#"><i class="far fa-dot-circle text-danger"></i> Inactive</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td class="text-right">
+                                            <div class="dropdown dropdown-action">
+                                                <a href="#" class="action-icon dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="feather-more-vertical"></i></a>
+                                                <div class="dropdown-menu dropdown-menu-right">
+                                                    <a class="dropdown-item" href="#" data-toggle="modal" data-target="#edit_client"><i class="fas fa-pen m-r-5"></i> Edit</a>
+                                                    <a class="dropdown-item" href="#" data-toggle="modal" data-target="#delete_client"><i class="far fa-trash-alt m-r-5"></i> Delete</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <a href="client-profile.html" class="avatar">W</a>
+                                            <h2><a href="client-profile.html">Wellware Company</a></h2>
+                                        </td>
+                                        <td>CLT-0004</td>
+                                        <td>Misty Tison</td>
+                                        <td><a href="../../../cdn-cgi/l/email-protection.html" class="__cf_email__" data-cfemail="1875716b6c616c716b7776587d60797568747d367b7775">[email&#160;protected]</a></td>
+                                        <td>9876543210</td>
+                                        <td>
+                                            <div class="dropdown action-label">
+                                                <a href="#" class="btn btn-white btn-sm btn-rounded dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="far fa-dot-circle text-success"></i> Active </a>
+                                                <div class="dropdown-menu">
+                                                    <a class="dropdown-item" href="#"><i class="far fa-dot-circle text-success"></i> Active</a>
+                                                    <a class="dropdown-item" href="#"><i class="far fa-dot-circle text-danger"></i> Inactive</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td class="text-right">
+                                            <div class="dropdown dropdown-action">
+                                                <a href="#" class="action-icon dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="feather-more-vertical"></i></a>
+                                                <div class="dropdown-menu dropdown-menu-right">
+                                                    <a class="dropdown-item" href="#" data-toggle="modal" data-target="#edit_client"><i class="fas fa-pen m-r-5"></i> Edit</a>
+                                                    <a class="dropdown-item" href="#" data-toggle="modal" data-target="#delete_client"><i class="far fa-trash-alt m-r-5"></i> Delete</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <a href="client-profile.html" class="avatar">M</a>
+                                            <h2><a href="client-profile.html">Mustang Technologies</a></h2>
+                                        </td>
+                                        <td>CLT-0005</td>
+                                        <td>Daniel Deacon</td>
+                                        <td><a href="../../../cdn-cgi/l/email-protection.html" class="__cf_email__" data-cfemail="bdd9dcd3d4d8d1d9d8dcded2d3fdd8c5dcd0cdd1d893ded2d0">[email&#160;protected]</a></td>
+                                        <td>9876543210</td>
+                                        <td>
+                                            <div class="dropdown action-label">
+                                                <a href="#" class="btn btn-white btn-sm btn-rounded dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="far fa-dot-circle text-success"></i> Active </a>
+                                                <div class="dropdown-menu">
+                                                    <a class="dropdown-item" href="#"><i class="far fa-dot-circle text-success"></i> Active</a>
+                                                    <a class="dropdown-item" href="#"><i class="far fa-dot-circle text-danger"></i> Inactive</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td class="text-right">
+                                            <div class="dropdown dropdown-action">
+                                                <a href="#" class="action-icon dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="feather-more-vertical"></i></a>
+                                                <div class="dropdown-menu dropdown-menu-right">
+                                                    <a class="dropdown-item" href="#" data-toggle="modal" data-target="#edit_client"><i class="fas fa-pen m-r-5"></i> Edit</a>
+                                                    <a class="dropdown-item" href="#" data-toggle="modal" data-target="#delete_client"><i class="far fa-trash-alt m-r-5"></i> Delete</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <a href="client-profile.html" class="avatar">I</a>
+                                            <h2><a href="client-profile.html">International Software Inc</a></h2>
+                                        </td>
+                                        <td>CLT-0006</td>
+                                        <td>Walter Weaver</td>
+                                        <td><a href="../../../cdn-cgi/l/email-protection.html" class="__cf_email__" data-cfemail="5b2c3a372f3e292c3e3a2d3e291b3e233a362b373e75383436">[email&#160;protected]</a></td>
+                                        <td>9876543210</td>
+                                        <td>
+                                            <div class="dropdown action-label">
+                                                <a href="#" class="btn btn-white btn-sm btn-rounded dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="far fa-dot-circle text-success"></i> Active </a>
+                                                <div class="dropdown-menu">
+                                                    <a class="dropdown-item" href="#"><i class="far fa-dot-circle text-success"></i> Active</a>
+                                                    <a class="dropdown-item" href="#"><i class="far fa-dot-circle text-danger"></i> Inactive</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td class="text-right">
+                                            <div class="dropdown dropdown-action">
+                                                <a href="#" class="action-icon dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="feather-more-vertical"></i></a>
+                                                <div class="dropdown-menu dropdown-menu-right">
+                                                    <a class="dropdown-item" href="#" data-toggle="modal" data-target="#edit_client"><i class="fas fa-pen m-r-5"></i> Edit</a>
+                                                    <a class="dropdown-item" href="#" data-toggle="modal" data-target="#delete_client"><i class="far fa-trash-alt m-r-5"></i> Delete</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <a href="client-profile.html" class="avatar">M</a>
+                                            <h2><a href="client-profile.html">Mercury Software Inc</a></h2>
+                                        </td>
+                                        <td>CLT-0007</td>
+                                        <td>Amanda Warren</td>
+                                        <td><a href="../../../cdn-cgi/l/email-protection.html" class="__cf_email__" data-cfemail="fc9d919d92989d8b9d8e8e9992bc99849d918c9099d29f9391">[email&#160;protected]</a></td>
+                                        <td>9876543210</td>
+                                        <td>
+                                            <div class="dropdown action-label">
+                                                <a href="#" class="btn btn-white btn-sm btn-rounded dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="far fa-dot-circle text-success"></i> Active </a>
+                                                <div class="dropdown-menu">
+                                                    <a class="dropdown-item" href="#"><i class="far fa-dot-circle text-success"></i> Active</a>
+                                                    <a class="dropdown-item" href="#"><i class="far fa-dot-circle text-danger"></i> Inactive</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td class="text-right">
+                                            <div class="dropdown dropdown-action">
+                                                <a href="#" class="action-icon dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="feather-more-vertical"></i></a>
+                                                <div class="dropdown-menu dropdown-menu-right">
+                                                    <a class="dropdown-item" href="#" data-toggle="modal" data-target="#edit_client"><i class="fas fa-pen m-r-5"></i> Edit</a>
+                                                    <a class="dropdown-item" href="#" data-toggle="modal" data-target="#delete_client"><i class="far fa-trash-alt m-r-5"></i> Delete</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="notification-box">
+                <div class="msg-sidebar notifications msg-noti">
+                    <div class="topnav-dropdown-header">
+                        <span>Messages</span>
+                    </div>
+                    <div class="drop-scroll msg-list-scroll">
+                        <ul class="list-box">
+                            <li>
+                                <a href="chat.html">
+                                    <div class="list-item">
+                                        <div class="list-left">
+                                            <span class="avatar">R</span>
+                                        </div>
+                                        <div class="list-body">
+                                            <span class="message-author">Richard Miles </span>
+                                            <span class="message-time">12:28 AM</span>
+                                            <div class="clearfix"></div>
+                                            <span class="message-content">Lorem ipsum dolor sit amet, consectetur adipiscing</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="chat.html">
+                                    <div class="list-item new-message">
+                                        <div class="list-left">
+                                            <span class="avatar">J</span>
+                                        </div>
+                                        <div class="list-body">
+                                            <span class="message-author">John Doe</span>
+                                            <span class="message-time">1 Aug</span>
+                                            <div class="clearfix"></div>
+                                            <span class="message-content">Lorem ipsum dolor sit amet, consectetur adipiscing</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="chat.html">
+                                    <div class="list-item">
+                                        <div class="list-left">
+                                            <span class="avatar">T</span>
+                                        </div>
+                                        <div class="list-body">
+                                            <span class="message-author"> Tarah Shropshire </span>
+                                            <span class="message-time">12:28 AM</span>
+                                            <div class="clearfix"></div>
+                                            <span class="message-content">Lorem ipsum dolor sit amet, consectetur adipiscing</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="chat.html">
+                                    <div class="list-item">
+                                        <div class="list-left">
+                                            <span class="avatar">M</span>
+                                        </div>
+                                        <div class="list-body">
+                                            <span class="message-author">Mike Litorus</span>
+                                            <span class="message-time">12:28 AM</span>
+                                            <div class="clearfix"></div>
+                                            <span class="message-content">Lorem ipsum dolor sit amet, consectetur adipiscing</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="chat.html">
+                                    <div class="list-item">
+                                        <div class="list-left">
+                                            <span class="avatar">C</span>
+                                        </div>
+                                        <div class="list-body">
+                                            <span class="message-author"> Catherine Manseau </span>
+                                            <span class="message-time">12:28 AM</span>
+                                            <div class="clearfix"></div>
+                                            <span class="message-content">Lorem ipsum dolor sit amet, consectetur adipiscing</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="chat.html">
+                                    <div class="list-item">
+                                        <div class="list-left">
+                                            <span class="avatar">D</span>
+                                        </div>
+                                        <div class="list-body">
+                                            <span class="message-author"> Domenic Houston </span>
+                                            <span class="message-time">12:28 AM</span>
+                                            <div class="clearfix"></div>
+                                            <span class="message-content">Lorem ipsum dolor sit amet, consectetur adipiscing</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="chat.html">
+                                    <div class="list-item">
+                                        <div class="list-left">
+                                            <span class="avatar">B</span>
+                                        </div>
+                                        <div class="list-body">
+                                            <span class="message-author"> Buster Wigton </span>
+                                            <span class="message-time">12:28 AM</span>
+                                            <div class="clearfix"></div>
+                                            <span class="message-content">Lorem ipsum dolor sit amet, consectetur adipiscing</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="chat.html">
+                                    <div class="list-item">
+                                        <div class="list-left">
+                                            <span class="avatar">R</span>
+                                        </div>
+                                        <div class="list-body">
+                                            <span class="message-author"> Rolland Webber </span>
+                                            <span class="message-time">12:28 AM</span>
+                                            <div class="clearfix"></div>
+                                            <span class="message-content">Lorem ipsum dolor sit amet, consectetur adipiscing</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="chat.html">
+                                    <div class="list-item">
+                                        <div class="list-left">
+                                            <span class="avatar">C</span>
+                                        </div>
+                                        <div class="list-body">
+                                            <span class="message-author"> Claire Mapes </span>
+                                            <span class="message-time">12:28 AM</span>
+                                            <div class="clearfix"></div>
+                                            <span class="message-content">Lorem ipsum dolor sit amet, consectetur adipiscing</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="chat.html">
+                                    <div class="list-item">
+                                        <div class="list-left">
+                                            <span class="avatar">M</span>
+                                        </div>
+                                        <div class="list-body">
+                                            <span class="message-author">Melita Faucher</span>
+                                            <span class="message-time">12:28 AM</span>
+                                            <div class="clearfix"></div>
+                                            <span class="message-content">Lorem ipsum dolor sit amet, consectetur adipiscing</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="chat.html">
+                                    <div class="list-item">
+                                        <div class="list-left">
+                                            <span class="avatar">J</span>
+                                        </div>
+                                        <div class="list-body">
+                                            <span class="message-author">Jeffery Lalor</span>
+                                            <span class="message-time">12:28 AM</span>
+                                            <div class="clearfix"></div>
+                                            <span class="message-content">Lorem ipsum dolor sit amet, consectetur adipiscing</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="chat.html">
+                                    <div class="list-item">
+                                        <div class="list-left">
+                                            <span class="avatar">L</span>
+                                        </div>
+                                        <div class="list-body">
+                                            <span class="message-author">Loren Gatlin</span>
+                                            <span class="message-time">12:28 AM</span>
+                                            <div class="clearfix"></div>
+                                            <span class="message-content">Lorem ipsum dolor sit amet, consectetur adipiscing</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="chat.html">
+                                    <div class="list-item">
+                                        <div class="list-left">
+                                            <span class="avatar">T</span>
+                                        </div>
+                                        <div class="list-body">
+                                            <span class="message-author">Tarah Shropshire</span>
+                                            <span class="message-time">12:28 AM</span>
+                                            <div class="clearfix"></div>
+                                            <span class="message-content">Lorem ipsum dolor sit amet, consectetur adipiscing</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="topnav-dropdown-footer">
+                        <a href="chat.html">See all messages</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /Page Wrapper -->
+
+        <!-- Add Modal -->
+        <div id="add_client" class="modal custom-modal fade" role="dialog">
+            <div class="modal-dialog">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <div class="modal-content modal-lg">
+                    <div class="modal-header">
+                        <h4 class="modal-title">Add Client</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div class="m-b-30">
+                            <form>
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <label>First Name <span class="text-danger">*</span></label>
+                                            <input class="form-control" type="text">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <label>Last Name</label>
+                                            <input class="form-control" type="text">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <label>Username <span class="text-danger">*</span></label>
+                                            <input class="form-control" type="text">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <label>Email <span class="text-danger">*</span></label>
+                                            <input class="form-control floating" type="email">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <label>Password</label>
+                                            <input class="form-control" type="password">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <label>Confirm Password</label>
+                                            <input class="form-control" type="password">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <label>Client ID <span class="text-danger">*</span></label>
+                                            <input class="form-control floating" type="text">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <label>Phone </label>
+                                            <input class="form-control" type="text">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <label>Company Name</label>
+                                            <input class="form-control" type="text">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="table-responsive m-t-15">
+                                    <table class="table table-striped custom-table">
+                                        <thead>
+                                            <tr>
+                                                <th>Module Permission</th>
+                                                <th class="text-center">Read</th>
+                                                <th class="text-center">Write</th>
+                                                <th class="text-center">Create</th>
+                                                <th class="text-center">Delete</th>
+                                                <th class="text-center">Import</th>
+                                                <th class="text-center">Export</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>Projects</td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>Tasks</td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>Chat</td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>Estimates</td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>Invoices</td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>Timing Sheets</td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <div class="m-t-20 text-center">
+                                    <button class="btn btn-primary btn-lg">Create Client</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /Add Modal -->
+
+        <!-- Edit Modal -->
+        <div id="edit_client" class="modal custom-modal fade" role="dialog">
+            <div class="modal-dialog">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <div class="modal-content modal-lg">
+                    <div class="modal-header">
+                        <h4 class="modal-title">Edit Client</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div class="m-b-30">
+                            <form>
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <label>First Name <span class="text-danger">*</span></label>
+                                            <input class="form-control" value="Barry" type="text">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <label>Last Name</label>
+                                            <input class="form-control" value="Cuda" type="text">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <label>Username <span class="text-danger">*</span></label>
+                                            <input class="form-control" value="barrycuda" type="text">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <label>Email <span class="text-danger">*</span></label>
+                                            <input class="form-control floating" value="barrycuda@example.com" type="email">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <label>Password</label>
+                                            <input class="form-control" value="barrycuda" type="password">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <label>Confirm Password</label>
+                                            <input class="form-control" value="barrycuda" type="password">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <label>Client ID <span class="text-danger">*</span></label>
+                                            <input class="form-control floating" value="CLT-0001" type="text">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <label>Phone </label>
+                                            <input class="form-control" value="9876543210" type="text">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <label>Company Name</label>
+                                            <input class="form-control" type="text" value="Global Technologies">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="table-responsive m-t-15">
+                                    <table class="table table-striped custom-table">
+                                        <thead>
+                                            <tr>
+                                                <th>Module Permission</th>
+                                                <th class="text-center">Read</th>
+                                                <th class="text-center">Write</th>
+                                                <th class="text-center">Create</th>
+                                                <th class="text-center">Delete</th>
+                                                <th class="text-center">Import</th>
+                                                <th class="text-center">Export</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>Projects</td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>Tasks</td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>Chat</td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>Estimates</td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>Invoices</td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>Timing Sheets</td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                                <td class="text-center">
+                                                    <input checked="" type="checkbox">
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <div class="m-t-20 text-center">
+                                    <button class="btn btn-primary btn-lg">Save Changes</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /Edit Modal -->
+
+        <!-- Delete Modal -->
+        <div id="delete_client" class="modal custom-modal fade" role="dialog">
+            <div class="modal-dialog">
+                <div class="modal-content modal-md">
+                    <div class="modal-header">
+                        <h4 class="modal-title">Delete Client</h4>
+                    </div>
+                    <div class="modal-body card-box">
+                        <p>Are you sure want to delete this?</p>
+                        <div class="m-t-20"> <a href="#" class="btn btn-white" data-dismiss="modal">Close</a>
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /Delete Modal -->
+    </div>
+    <!-- /Main Wrapper -->
+
+    <!-- jQuery -->
+    <script data-cfasync="false" src="../../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/jquery-3.6.0.min.js"></script>
+
+    <!-- Bootstrap Core JS -->
+	<script src="assets/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Datatable JS-->    
+    <script src="assets/js/jquery.dataTables.min.js"></script>
+    <script src="assets/js/dataTables.bootstrap4.min.js"></script>
+
+    <!-- Slimscroll JS -->
+    <script src="assets/js/jquery.slimscroll.js"></script>
+
+    <!-- Select2 JS-->
+    <script src="assets/js/select2.min.js"></script>
+    <script src="assets/js/moment.min.js"></script>
+
+    <!-- Custom JS -->
+    <script src="assets/js/app.js"></script>
+</body>
+
+
+<!-- Mirrored from preadmin.dreamstechnologies.com/html/crms/light2/clients-list.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Dec 2023 12:50:40 GMT -->
+</html>

@@ -1,0 +1,37 @@
+<div class="modal-dialog modal-md ">
+   <div class="modal-content">
+         <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+            Select Product
+         </div>
+         <div class="modal-body">
+
+			<div class="col-sm-12 my-5">
+				   <h4 class="">Select Products</h4>
+				   
+				   <input type="text" name="product_name" onkeyup="stfSearchProductByName(this)" placeholder="Enter Product Name" class="form-control">
+				   <div class="w-100 overflow-auto" style="height: 200px;overflow: auto;">
+					  <ul class="list-group   stf_products_list_ul">
+						   @if($products->isNotEmpty())
+						   
+								@foreach($products as $product)
+								   @php 
+										
+										$html = '<li class="list-group-item d-flex justify-content-between align-items-center"  for="select_prod_li_'.$product->id.'" data-prod-id="'.$product->id.'" onclick="stfSelectProdut('.$product->id.')" data-product-name="'.strtolower($product->name).'" >'.$product->name.'</li>';
+										echo $html;
+								   @endphp
+								 
+								@endforeach
+							@else
+								<span>No any product found</span>	
+							@endif
+					  </ul>
+				</div>
+			</div>
+			
+			
+			
+			
+		</div>
+	</div>
+</div>

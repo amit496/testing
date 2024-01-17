@@ -1,0 +1,2 @@
+<td><span class="label label-default"><?php echo e($category->products_count, false); ?></span></td>
+<?php /**PATH /home/dappr/public_html/portal.dappr.com.au/resources/views/admin/category/partials/products.blade.php ENDPATH**/ ?>

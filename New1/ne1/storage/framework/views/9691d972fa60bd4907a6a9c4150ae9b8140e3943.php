@@ -1,0 +1,2 @@
+<td><span class="label label-warning"><?php echo e($category->listings_count, false); ?></span></td>
+<?php /**PATH /home/dappr/public_html/portal.dappr.com.au/resources/views/admin/category/partials/listings.blade.php ENDPATH**/ ?>

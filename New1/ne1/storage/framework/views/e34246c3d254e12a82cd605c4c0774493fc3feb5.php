@@ -1,0 +1,2 @@
+<li><a href="<?php echo e(route('categories'), false); ?>"><?php echo app('translator')->get('theme.nav.categories'); ?></a></li>
+<?php /**PATH C:\wamp64\www\hype-dappr\public\themes\default/views/headers/lists/categories.blade.php ENDPATH**/ ?>

@@ -1,0 +1,741 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from preadmin.dreamstechnologies.com/laravel/hotel/template2/public/gallery by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Dec 2023 11:09:18 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
+	<title>Hotel Dashboard Template</title>
+	
+	<!-- Favicon -->
+	<link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
+
+	<!-- Bootstrap CSS -->
+	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
+	
+	<!-- Fontawesome CSS -->
+	<link rel="stylesheet"  href="assets/plugins/fontawesome/css/fontawesome.min.css" >
+    <link rel="stylesheet" href="assets/plugins/fontawesome/css/all.min.css" >
+
+	<!-- Feathericon CSS -->
+	<link rel="stylesheet" href="assets/css/feathericon.min.css">
+		
+	<!-- Datatables CSS -->
+	<link rel="stylesheet" href="assets/plugins/datatables/datatables.min.css">
+	
+	<!-- Datetimepicker CSS -->
+	<link rel="stylesheet" type="text/css" href="assets/css/bootstrap-datetimepicker.min.css">
+	
+	<!-- Select2 CSS -->
+		<link rel="stylesheet" type="text/css" href="assets/css/select2.min.css">
+		
+		
+	<!-- Morris CSS -->
+	<link rel="stylesheet" href="assets/plugins/morris/morris.css">
+	
+	<!-- Full Calander CSS -->
+	<link rel="stylesheet" href="assets/plugins/fullcalendar/fullcalendar.min.css">
+
+	<!-- C3 CSS -->
+	<link rel="stylesheet" href="assets/plugins/c3-chart/c3.min.css">
+	
+	<!-- Summernote CSS -->
+	<link rel="stylesheet" type="text/css" href="assets/plugins/summernote/dist/summernote-bs4.css">
+	
+	
+	<!-- Dragula CSS -->
+	<link rel="stylesheet" href="assets/plugins/dragula/css/dragula.min.css">
+	
+	<!-- Wizard CSS -->
+	<link rel="stylesheet" href="assets/plugins/twitter-bootstrap-wizard/form-wizard.css">
+	
+	<!-- Lightbox CSS -->
+	<link rel="stylesheet" type="text/css" href="assets/plugins/light-gallery/css/lightgallery.min.css">
+	
+	<!-- Lightbox CSS -->
+	<link rel="stylesheet" href="assets/plugins/lightbox/glightbox.min.css">
+	
+	<!-- Flag CSS -->
+	<link rel="stylesheet" href="assets/plugins/icons/flags/flags.css">
+	
+	<!-- Ionic CSS -->
+	<link rel="stylesheet" href="assets/plugins/icons/ionic/ionicons.css">
+	
+	<!-- Material CSS -->
+	<link rel="stylesheet" href="assets/plugins/material/materialdesignicons.css">
+	
+	<!-- Pe7 CSS -->
+	<link rel="stylesheet" href="assets/plugins/icons/pe7/pe-icon-7.css">
+	
+	<!-- Simpleline CSS -->
+		
+	<!-- Themify CSS -->
+	<link rel="stylesheet" href="assets/plugins/icons/themify/themify.css">
+	
+	<!-- Typicon CSS -->
+	<link rel="stylesheet" href="assets/plugins/icons/typicons/typicons.css">
+	
+	<!-- Weather CSS -->
+	<link rel="stylesheet" href="assets/plugins/icons/weather/weathericons.css">
+	
+		
+	<!-- Alertify CSS -->
+	<link rel="stylesheet" href="assets/plugins/alertify/alertify.min.css">
+	
+	<!-- Rangeslider CSS -->
+	<link rel="stylesheet" href="assets/plugins/ion-rangeslider/css/ion.rangeSlider.min.css">
+	
+	<!-- Scrollar CSS -->
+	<link rel="stylesheet" href="assets/plugins/scrollbar/scroll.min.css">
+	
+	<!-- gallery CSS -->
+		<link rel="stylesheet" href="assets/plugins/gallery/magnific-popup.min.css">
+		
+	<!-- Sticky CSS -->
+	<link rel="stylesheet" href="assets/plugins/stickynote/sticky.css">
+	
+	<!-- Toatr CSS -->
+		
+	<!-- Main CSS -->
+	<link rel="stylesheet" href="assets/css/style.css"></head>
+<!-- Main Wrapper -->
+	<div class="main-wrapper">
+		<!-- Header -->
+		<div class="header">
+
+			<!-- Logo -->
+			<div class="header-left">
+				<a href="index.html" class="logo">
+                    <img src="assets/img/hotel_logo.png" width="50" height="70" alt="logo">
+                    <span class="logoclass">HOTEL</span>
+				</a>
+				<a href="index.html" class="logo logo-small">
+					<img src="assets/img/hotel_logo.png" alt="Logo" width="30" height="30">
+				</a>
+			</div>
+			<!-- /Logo -->
+			<a href="javascript:void(0);" id="toggle_btn">
+				<i class="fe fe-text-align-left"></i>
+			</a>
+			<!-- Mobile Menu Toggle -->
+			<a class="mobile_btn" id="mobile_btn">
+				<i class="fas fa-bars"></i>
+			</a>
+			<!-- /Mobile Menu Toggle -->
+
+			<!-- Header Right Menu -->
+			<ul class="nav user-menu">
+
+				<!-- Notifications -->
+				<li class="nav-item dropdown noti-dropdown">
+					<a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
+						<i class="fe fe-bell"></i> <span class="badge badge-pill">3</span>
+					</a>
+					<div class="dropdown-menu notifications">
+						<div class="topnav-dropdown-header">
+							<span class="notification-title">Notifications</span>
+							<a href="javascript:void(0)" class="clear-noti"> Clear All </a>
+						</div>
+						<div class="noti-content">
+							<ul class="notification-list">
+								<li class="notification-message">
+									<a href="#">
+										<div class="media">
+											<span class="avatar avatar-sm">
+												<img class="avatar-img rounded-circle" alt="User Image"
+													src="assets/img/profiles/avatar-02.jpg">
+											</span>
+											<div class="media-body">
+												<p class="noti-details"><span class="noti-title">Carlson Tech</span> has
+													approved <span class="noti-title">your estimate</span></p>
+												<p class="noti-time"><span class="notification-time">4 mins ago</span>
+												</p>
+											</div>
+										</div>
+									</a>
+								</li>
+								<li class="notification-message">
+									<a href="#">
+										<div class="media">
+											<span class="avatar avatar-sm">
+												<img class="avatar-img rounded-circle" alt="User Image"
+													src="assets/img/profiles/avatar-11.jpg">
+											</span>
+											<div class="media-body">
+												<p class="noti-details"><span class="noti-title">International Software
+														Inc</span> has sent you a invoice in the amount of <span
+														class="noti-title">$218</span></p>
+												<p class="noti-time"><span class="notification-time">6 mins ago</span>
+												</p>
+											</div>
+										</div>
+									</a>
+								</li>
+								<li class="notification-message">
+									<a href="#">
+										<div class="media">
+											<span class="avatar avatar-sm">
+												<img class="avatar-img rounded-circle" alt="User Image"
+													src="assets/img/profiles/avatar-17.jpg">
+											</span>
+											<div class="media-body">
+												<p class="noti-details"><span class="noti-title">John Hendry</span> sent
+													a cancellation request <span class="noti-title">Apple iPhone
+														XR</span></p>
+												<p class="noti-time"><span class="notification-time">8 mins ago</span>
+												</p>
+											</div>
+										</div>
+									</a>
+								</li>
+								<li class="notification-message">
+									<a href="#">
+										<div class="media">
+											<span class="avatar avatar-sm">
+												<img class="avatar-img rounded-circle" alt="User Image"
+													src="assets/img/profiles/avatar-13.jpg">
+											</span>
+											<div class="media-body">
+												<p class="noti-details"><span class="noti-title">Mercury Software
+														Inc</span> added a new product <span class="noti-title">Apple
+														MacBook Pro</span></p>
+												<p class="noti-time"><span class="notification-time">12 mins ago</span>
+												</p>
+											</div>
+										</div>
+									</a>
+								</li>
+							</ul>
+						</div>
+						<div class="topnav-dropdown-footer">
+							<a href="#">View all Notifications</a>
+						</div>
+					</div>
+				</li>
+				<!-- /Notifications -->
+
+				<!-- User Menu -->
+				<li class="nav-item dropdown has-arrow">
+					<a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
+						<span class="user-img"><img class="rounded-circle" src="assets/img/profiles/avatar-01.jpg"
+								width="31" alt="Dexter Smith"></span>
+					</a>
+					<div class="dropdown-menu">
+						<div class="user-header">
+							<div class="avatar avatar-sm">
+								<img src="assets/img/profiles/avatar-01.jpg" alt="User Image"
+									class="avatar-img rounded-circle">
+							</div>
+							<div class="user-text">
+								<h6>Dexter Smith</h6>
+								<p class="text-muted mb-0">Administrator</p>
+							</div>
+						</div>
+						<a class="dropdown-item" href="profile.html">My Profile</a>
+						<a class="dropdown-item" href="settings.html">Account Settings</a>
+						<a class="dropdown-item" href="login.html">Logout</a>
+					</div>
+				</li>
+				<!-- /User Menu -->
+
+			</ul>
+			<!-- /Header Right Menu -->
+
+		</div>
+		<!-- /Header --><!-- Sidebar -->
+						<div class="sidebar" id="sidebar">
+				<div class="sidebar-inner slimscroll">
+					<div id="sidebar-menu" class="sidebar-menu">
+						<ul>
+							
+							<li class="" >
+								<a href="index.html"><i class="fas fa-tachometer-alt"></i> <span>Dashboard</span></a>
+							</li>
+							<li class="list-divider"></li>
+	
+	
+							<li class="submenu">
+								<a href="#"><i class="fas fa-suitcase"></i> <span> Booking </span> <span
+										class="menu-arrow"></span></a>
+								<ul class="submenu_class" style="display: none;">
+									<li><a class=""  href="all-booking.html"> All Booking </a></li>
+									<li><a class=""  href="edit-booking.html"> Edit Booking </a></li>
+									<li><a class=""  href="add-booking.html"> Add Booking </a></li>
+								</ul>
+							</li>
+							<li class="submenu">
+								<a href="#"><i class="fas fa-user"></i> <span> Customers </span> <span
+										class="menu-arrow"></span></a>
+								<ul class="submenu_class" style="display: none;">
+									<li><a class=""  href="all-customer.html"> All customers </a></li>
+									<li><a class=""  href="edit-customer.html"> Edit Customer </a></li>
+									<li><a class=""  href="add-customer.html"> Add Customer </a></li>
+								</ul>
+							</li>
+						   
+							
+							<li class="submenu">
+								<a href="#"><i class="fas fa-key"></i> <span> Rooms </span> <span
+										class="menu-arrow"></span></a>
+								<ul class="submenu_class" style="display: none;">
+									<li><a class=""  href="all-rooms.html">All Rooms </a></li>
+									<li><a class=""  href="edit-room.html"> Edit Rooms </a></li>
+									<li><a class=""  href="add-room.html"> Add Rooms </a></li>
+								</ul>
+							</li>
+							<li class="submenu">
+								<a href="#"><i class="fas fa-user"></i> <span> Staff </span> <span
+										class="menu-arrow"></span></a>
+								<ul class="submenu_class" style="display: none;">
+									<li><a class=""  href="all-staff.html">All Staff </a></li>
+									<li><a class=""  href="edit-staff.html"> Edit Staff </a></li>
+									<li><a class=""  href="add-staff.html"> Add Staff </a></li>
+								</ul>
+							</li>
+							<li class="">
+								<a href="pricing.html" ><i class="far fa-money-bill-alt"></i> <span>Pricing</span></a>
+							</li>
+							<li class="submenu">
+								<a href="#"><i class="fas fa-share-alt"></i> <span> Apps </span> <span
+										class="menu-arrow"></span></a>
+								<ul class="submenu_class" style="display: none;">
+									<li><a class=""  href="chat.html"><i class="fas fa-comments"></i><span> Chat </span></a></li>
+									<li class="submenu">
+										<a href="#"><i class="fas fa-video camera"></i> <span> Calls </span> <span class="menu-arrow"></span></a>
+										<ul class="submenu_class" style="display: none;">
+											<li><a class=""  href="voice-call.html"> Voice Call </a></li>
+											<li><a class=""  href="video-call.html"> Video Call </a></li>
+											<li><a class=""  href="incoming-call.html"> Incoming Call </a></li>
+										</ul>
+									</li>
+									<li class="submenu">
+										<a href="#"><i class="fas fa-envelope"></i> <span> Email </span> <span class="menu-arrow"></span></a>
+										<ul class="submenu_class" style="display: none;">
+											<li><a href="compose.html">Compose Mail </a></li>
+											<li><a href="inbox.html"> Inbox </a></li>
+											<li><a href="mail-view.html"> Mail View </a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+							<li class="submenu">
+								<a href="#"><i class="fas fa-user"></i> <span> Employees </span> <span
+										class="menu-arrow"></span></a>
+								<ul class="submenu_class" style="display: none;">
+									<li><a class=""  href="employees.html">Employees List </a></li>
+									<li><a class=""  href="leaves.html">Leaves </a></li>
+									<li><a class=""  href="holidays.html">Holidays </a></li>
+									<li><a class=""  href="attendance.html">Attendance </a></li>
+								</ul>
+							</li>	
+							<li class="submenu">
+								<a href="#"><i class="far fa-money-bill-alt"></i> <span> Accounts </span> <span
+										class="menu-arrow"></span></a>
+								<ul class="submenu_class" style="display: none;">
+									<li><a class=""  href="invoices.html">Invoices </a></li>
+									<li><a class=""  href="payments.html">Payments </a></li>
+									<li><a class=""  href="expenses.html" >Expenses </a></li>
+									<li><a class=""  href="taxes.html">Taxes </a></li>
+									<li><a class=""  href="provident-fund.html">Provident Fund </a></li>
+								</ul>
+							</li>
+							<li class="submenu">
+								<a href="#"><i class="fas fa-book"></i> <span> Payroll </span> <span
+										class="menu-arrow"></span></a>
+								<ul class="submenu_class" style="display: none;">
+									<li><a class=""  href="salary.html">Employee Salary </a></li>
+									<li><a class=""  href="salary-view.html">Payslip </a></li>
+								</ul>
+							</li>
+							<li class="" >
+								<a href="calendar.html" ><i class="fas fa-calendar-alt"></i> <span>Calendar</span></a>
+							</li>
+							<li class="submenu">
+								<a href="#"><i class="fe fe-table"></i> <span> Blog </span> <span
+										class="menu-arrow"></span></a>
+								<ul class="submenu_class" style="display: none;">
+									<li><a class=""  href="blog.html">Blog </a></li>
+									<li><a class=""  href="blog-details.html">Blog Veiw </a></li>
+									<li><a class=""  href="add-blog.html">Add Blog </a></li>
+									<li><a class=""  href="edit-blog.html">Edit Blog </a></li>
+								</ul>
+							</li>
+							<li class="" >
+								<a  href="assets1.html"><i class="fas fa-cube"></i> <span>Assests</span></a>
+							</li>
+							<li class="">
+								<a  href="activities.html"><i class="far fa-bell"></i> <span>Activities</span></a>
+							</li>
+							<li class="submenu">
+								<a href="#"><i class="fe fe-table"></i> <span> Reports </span> <span
+										class="menu-arrow"></span></a>
+								<ul class="submenu_class" style="display: none;">
+									<li><a class=""  href="expense-reports.html">Expense Report </a></li>
+									<li><a class=""  href="invoice-reports.html">Invoice Report </a></li>
+								</ul>
+							</li>
+							<li>
+								<a href="settings.html"><i class="fas fa-cog"></i> <span>Settings</span></a>
+							</li>
+							<li class="list-divider"></li>
+							<li class="menu-title mt-3">
+								<span>UI ELEMENTS</span>
+							</li>
+							<li class="submenu">
+								<a href="#"><i class="fas fa-laptop"></i> <span> Components </span> <span
+										class="menu-arrow"></span></a>
+								<ul class="submenu_class" style="display: none;">
+									<li><a class=""  href="uikit.html">UI Kit </a></li>
+									<li><a class=""  href="typography.html">Typography </a></li>
+									<li><a class=""  href="tabs.html">Tabs </a></li>
+								</ul>
+							</li>
+							<li class="submenu">
+								<a href="#"><i class="fas fa-boxes"></i> <span>Elements </span> <span class="menu-arrow"></span></a>
+								<ul class="submenu_class" style="display: none;">
+									<li><a class="" href="sweetalerts.html">Sweet Alerts</a></li>
+									<li><a class="" href="tooltip.html">Tooltip</a></li>
+									<li><a class="" href="popover.html">Popover</a></li>
+									<li><a class="" href="ribbon.html">Ribbon</a></li>
+									<li><a class="" href="clipboard.html">Clipboard</a></li>
+									<li><a class="" href="drag-drop.html">Drag & Drop</a></li>
+									<li><a class="" href="rangeslider.html">Range Slider</a></li>
+									<li><a class="" href="rating.html">Rating</a></li>
+									<li><a class="" href="toastr.html">Toastr</a></li>
+									<li><a class="" href="text-editor.html">Text Editor</a></li>
+									<li><a class="" href="counter.html">Counter</a></li>
+									<li><a class="" href="scrollbar.html">Scrollbar</a></li>
+									<li><a class="" href="spinner.html">Spinner</a></li>
+									<li><a class="" href="notification.html">Notification</a></li>
+									<li><a class="" href="lightbox.html">Lightbox</a></li>
+									<li><a class="" href="stickynote.html">Sticky Note</a></li>
+									<li><a class="" href="timeline.html">Timeline</a></li>
+									<li><a class="" href="horizontal-timeline.html">Horizontal Timeline</a></li>
+									<li><a class="" href="form-wizard.html" >Form Wizard</a></li>
+								</ul>
+							</li>
+							<li class="submenu">
+								<a href="#"><i class="fas fa-chart-area"></i> <span> Charts </span> <span class="menu-arrow"></span></a>
+								<ul class="submenu_class" style="display: none;">
+									<li><a class="" href="chart-apex.html">Apex Charts</a></li>
+									<li><a class="" href="chart-js.html" >Chart Js</a></li>
+									<li><a class="" href="chart-morris.html" >Morris Charts</a></li>
+									<li><a class="" href="chart-flot.html">Flot Charts</a></li>
+									<li><a class="" href="chart-peity.html">Peity Charts</a></li>
+									<li><a class="" href="chart-c3.html" >C3 Charts</a></li>
+								</ul>
+							</li>
+							<li class="submenu">
+								<a href="#"><i class="fab fa-buffer"></i> <span> Icons </span> <span class="menu-arrow"></span></a>
+								<ul class="submenu_class" style="display: none;">
+									<li><a class="" href="icon-fontawesome.html" >Fontawesome Icons</a></li>
+									<li><a class="" href="icon-feather.html">Feather Icons</a></li>
+									<li><a class="" href="icon-ionic.html">Ionic Icons</a></li>
+									<li><a class="" href="icon-material.html">Material Icons</a></li>
+									<li><a class="" href="icon-pe7.html">Pe7 Icons</a></li>
+									<li><a class="" href="icon-simpleline.html">Simpleline Icons</a></li>
+									<li><a class="" href="icon-themify.html">Themify Icons</a></li>
+									<li><a class="" href="icon-weather.html">Weather Icons</a></li>
+									<li><a class="" href="icon-typicon.html">Typicon Icons</a></li>
+									<li><a class="" href="icon-flag.html" >Flag Icons</a></li>
+								</ul>
+							</li>
+							<li class="submenu">
+								<a href="#"><i class="fa fa-edit"></i> <span> Forms</span> <span class="menu-arrow"></span></a>
+								<ul class="submenu_class" style="display: none;">
+									<li><a class="" href="form-basic-inputs.html">Basic Inputs </a></li>
+									<li><a class="" href="form-input-groups.html">Input Groups </a></li>
+									<li><a class="" href="form-horizontal.html">Horizontal Form </a></li>
+									<li><a class="" href="form-vertical.html"> Vertical Form </a></li>
+									<li><a class="" href="form-mask.html"> Form Mask </a></li>
+									<li><a class="" href="form-validation.html"> Form Validation </a></li>									
+									<li><a class="" href="form-select2.html">Form Select2 </a></li>
+									<li><a class="" href="form-fileupload.html">File Upload </a></li>
+								</ul>
+							</li>
+							<li class="submenu">
+								<a href="#"><i class="fas fa-table"></i> <span> Tables </span> <span
+										class="menu-arrow"></span></a>
+								<ul class="submenu_class" style="display: none;">
+									<li><a class=""  href="tables-basic.html">Basic Table </a></li>
+									<li><a class=""  href="tables-datatables.html">Data Table </a></li>
+								</ul>
+							</li>
+							<li class="list-divider"></li>
+							<li class="menu-title mt-3">
+								<span>EXTRAS</span>
+							</li>
+							<li class="submenu">
+								<a href="#"><i class="fas fa-columns"></i> <span> Pages </span> <span
+										class="menu-arrow"></span></a>
+								<ul class="submenu_class" style="display: none;">
+									<li><a href="login.html">Login </a></li>
+									<li><a href="register.html">Register </a></li>
+									<li><a href="forgot-password.html">Forgot Password </a></li>
+									<li><a href="change-password.html">Change Password </a></li>
+									<li><a href="lock-screen.html">Lockscreen </a></li>
+									<li><a class=""  href="profile.html" >Profile </a></li>
+									<li><a class="active"  href="gallery.html" href="#">Gallery </a></li>
+									<li><a href="error-404.html">404 Error </a></li>
+									<li><a href="error-500.html">500 Error </a></li>
+									<li><a class=""  href="blank-page.html">Blank Page </a></li>
+								</ul>
+							</li>
+							<li class="submenu">
+								<a href="#"><i class="fas fa-share-alt"></i> <span> Multi Level </span> <span
+										class="menu-arrow"></span></a>
+								<ul class="submenu_class" style="display: none;">
+									<li><a href="#">Level 1 </a></li>
+									<li><a href="#">Level 2 </a></li>
+								</ul>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+						<!-- /Sidebar -->
+			<!-- Sidebar -->
+						<!-- /Sidebar -->
+			<!-- Sidebar -->
+						<!-- /Sidebar -->
+			<!-- Sidebar -->
+						<!-- /Sidebar -->
+			
+			
+				<!-- Page Wrapper -->
+		<div class="page-wrapper">
+			<div class="content container-fluid">
+				<section class="container mt-5">
+					<h1 class="my-4 mt-5 text-center text-lg-left image_title">Image Gallery</h1>
+					<div class="row gallery">
+						<div class="col-lg-3 col-md-4 col-xs-6 thumb">
+							<a href="assets/img/product/product-01.jpg">
+								<figure><img class="img-fluid img-thumbnail"
+										src="assets/img/product/product-01.jpg" alt="Random Image"></figure>
+							</a>
+						</div>
+
+						<div class="col-lg-3 col-md-4 col-xs-6 thumb">
+							<a href="assets/img/product/product-02.jpg">
+								<figure><img class="img-fluid img-thumbnail"
+										src="assets/img/product/product-02.jpg" alt="Random Image"></figure>
+							</a>
+						</div>
+
+						<div class="col-lg-3 col-md-4 col-xs-6 thumb">
+							<a href="assets/img/product/product-03.jpg">
+								<figure><img class="img-fluid img-thumbnail"
+										src="assets/img/product/product-03.jpg" alt="Random Image"></figure>
+							</a>
+						</div>
+
+						<div class="col-lg-3 col-md-4 col-xs-6 thumb">
+							<a href="assets/img/product/product-04.jpg">
+								<figure><img class="img-fluid img-thumbnail"
+										src="assets/img/product/product-04.jpg" alt="Random Image"></figure>
+							</a>
+						</div>
+
+						<div class="col-lg-3 col-md-4 col-xs-6 thumb">
+							<a href="assets/img/product/product-05.jpg">
+								<figure><img class="img-fluid img-thumbnail"
+										src="assets/img/product/product-05.jpg" alt="Random Image"></figure>
+							</a>
+						</div>
+
+						<div class="col-lg-3 col-md-4 col-xs-6 thumb">
+							<a href="assets/img/product/product-06.jpg">
+								<figure><img class="img-fluid img-thumbnail"
+										src="assets/img/product/product-06.jpg" alt="Random Image"></figure>
+							</a>
+						</div>
+
+						<div class="col-lg-3 col-md-4 col-xs-6 thumb">
+							<a href="assets/img/product/product-07.jpg">
+								<figure><img class="img-fluid img-thumbnail"
+										src="assets/img/product/product-07.jpg" alt="Random Image"></figure>
+							</a>
+						</div>
+
+						<div class="col-lg-3 col-md-4 col-xs-6 thumb">
+							<a href="assets/img/product/product-08.jpg">
+								<figure><img class="img-fluid img-thumbnail"
+										src="assets/img/product/product-08.jpg" alt="Random Image"></figure>
+							</a>
+						</div>
+					</div>
+				</section>
+
+			</div>
+		</div>
+		<!-- /Page Wrapper -->
+	</div>
+<!-- jQuery -->
+	<script src="assets/js/jquery-3.6.0.min.js"></script>
+	
+	<!-- Bootstrap Core JS -->
+	<script src="assets/js/popper.min.js"></script>
+	<script src="assets/js/bootstrap.bundle.min.js"></script>
+	
+	<!-- Select 2 -->
+		<script src="assets/js/select2.min.js"></script>
+		
+	<!-- Select 2 -->
+		
+	
+	<!-- Datetimepicker JS -->
+	<script src="assets/js/moment.min.js"></script>
+	<script src="assets/js/bootstrap-datetimepicker.min.js"></script>
+	
+	<!-- Slimscroll JS -->
+	<script src="assets/plugins/slimscroll/jquery.slimscroll.min.js"></script>
+	<script src="assets/plugins/raphael/raphael.min.js"></script>
+	
+	<!-- Datatables JS -->
+	<script src="assets/plugins/datatables/jquery.dataTables.min.js"></script>
+	<script src="assets/plugins/datatables/datatables.min.js"></script>
+	
+	<!-- Full Calendar JS -->
+	<script src="assets/js/jquery-ui.min.js"></script>
+	<script src="assets/plugins/fullcalendar/fullcalendar.min.js"></script>
+	<script src="assets/plugins/fullcalendar/jquery.fullcalendar.js"></script>
+	
+	<!-- Apexchart JS -->
+		
+	<!-- Chart JS -->
+		
+	<!-- Chart JS -->
+		
+	<!-- Chart JS -->
+		
+	<!-- Morrischart JS -->
+		
+	<!-- Chart JS -->
+		
+	<!-- Clipboard JS -->
+	<script src="assets/plugins/clipboard/clipboard.min.js"></script>
+	
+	<!-- Summernote JS -->
+	<script src="assets/plugins/summernote/dist/summernote-bs4.min.js"></script>
+	
+	
+	<!-- Counter JS -->
+	<script src="assets/plugins/countup/jquery.counterup.min.js"></script>
+	<script src="assets/plugins/countup/jquery.waypoints.min.js"></script>
+	<script src="assets/plugins/countup/jquery.missofis-countdown.js"></script>
+	
+	<!-- Dragula JS -->
+	<script src="assets/plugins/dragula/js/dragula.min.js"></script>
+	<script src="assets/plugins/dragula/js/drag-drop.min.js"></script>
+	
+	<!-- Fileupload JS -->
+	<script src="assets/plugins/fileupload/fileupload.min.js"></script>
+	
+	<!-- Mask JS -->
+	<script src="assets/js/jquery.maskedinput.min.js"></script>
+	<script src="assets/js/mask.js"></script>
+	
+	<!-- Form Validation JS -->
+	<script src="assets/js/form-validation.js"></script>
+	
+	<!-- Wizard JS -->
+	<script src="assets/plugins/twitter-bootstrap-wizard/jquery.bootstrap.wizard.min.js"></script>
+	<script src="assets/plugins/twitter-bootstrap-wizard/prettify.js"></script>
+	<script src="assets/plugins/twitter-bootstrap-wizard/form-wizard.js"></script>
+	
+	<!-- gallery JS -->
+	<script src="assets/plugins/light-gallery/js/lightgallery-all.min.js"></script>
+
+	<!-- Timeline JS -->
+	<script src="assets/plugins/timeline/horizontal-timeline.js"></script>
+	
+		
+	<!-- Lightbox JS -->
+	<script src="assets/plugins/lightbox/glightbox.min.js"></script>
+	<script src="assets/plugins/lightbox/lightbox.js"></script>
+	
+	<!-- Alertify JS -->
+		
+	<!-- Rangeslider JS -->
+	<script src="assets/plugins/ion-rangeslider/js/ion.rangeSlider.min.js"></script>
+	<script src="assets/plugins/ion-rangeslider/js/custom-rangeslider.js"></script>
+	
+	<!-- Raty JS -->
+	<script src="assets/plugins/raty/jquery.raty.js"></script>
+	<script src="assets/plugins/raty/custom.raty.js"></script>
+	
+	<!-- Scrollbar JS -->
+	<script src="assets/plugins/scrollbar/scrollbar.min.js"></script>
+	<script src="assets/plugins/scrollbar/custom-scroll.js"></script>
+	
+	<!-- Stickynote JS -->
+	<script src="assets/js/jquery-ui.min.js"></script>
+	<script src="assets/plugins/stickynote/sticky.js"></script>
+	
+	<!-- Sweetalert 2 -->
+	<script src="assets/plugins/sweetalert/sweetalert2.all.min.js"></script>
+	<script src="assets/plugins/sweetalert/sweetalerts.min.js"></script>
+	
+	<!-- Toastr JS -->
+	
+	<!-- Gallery JS -->
+		<script src="assets/plugins/gallery/jquery.magnific-popup.min.js"></script>
+		
+	<!-- Custom JS -->
+	<script src="assets/js/script.js"></script>
+	
+	<script>
+		$(function () {
+			$('#datetimepicker3').datetimepicker({
+				format: 'LT'
+
+			});
+		});
+	</script>
+	
+	<!-- Chat JS -->
+	<script>
+		const chatAppTarget = $('.chat-window');
+		(function () {
+			if ($(window).width() > 991)
+				chatAppTarget.removeClass('chat-slide');
+
+			$(document).on("click", ".chat-window .chat-users-list a.media", function () {
+				if ($(window).width() <= 991) {
+					chatAppTarget.addClass('chat-slide');
+				}
+				return false;
+			});
+			$(document).on("click", "#back_user_list", function () {
+				if ($(window).width() <= 991) {
+					chatAppTarget.removeClass('chat-slide');
+				}
+				return false;
+			});
+
+		})();
+	</script>
+	
+		<script>
+		$(document).ready(function () {
+			$(".gallery").magnificPopup({
+				delegate: "a",
+				type: "image",
+				tLoading: "Loading image #%curr%...",
+				mainClass: "mfp-img-mobile",
+				gallery: {
+					enabled: true,
+					navigateByImgClick: true,
+					preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+				},
+				image: {
+					tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
+				}
+			});
+		});
+	</script>
+	</body>
+
+<!-- Mirrored from preadmin.dreamstechnologies.com/laravel/hotel/template2/public/gallery by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Dec 2023 11:09:20 GMT -->
+</html>

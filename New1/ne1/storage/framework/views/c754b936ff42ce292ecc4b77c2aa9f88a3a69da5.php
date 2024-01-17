@@ -1,0 +1,1 @@
+<img src="<?php echo e(get_avatar_src($customer, 'tiny'), false); ?>" class="img-circle" alt="<?php echo e(trans('app.avatar'), false); ?>"><?php /**PATH C:\wamp64\www\hype-dappr\resources\views/admin/partials/actions/customer/image.blade.php ENDPATH**/ ?>

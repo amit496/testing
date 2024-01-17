@@ -1,0 +1,1 @@
+<?php echo e($customer->name, false); ?><?php /**PATH C:\wamp64\www\hype-dappr\resources\views/admin/partials/actions/customer/full_name.blade.php ENDPATH**/ ?>

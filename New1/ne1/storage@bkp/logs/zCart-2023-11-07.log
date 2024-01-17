@@ -1,0 +1,2724 @@
+[2023-11-07 01:28:53] local.INFO: ............................. Message Sending .....................................  
+[2023-11-07 01:28:53] local.INFO: array (
+  'subject' => '',
+)  
+[2023-11-07 01:28:53] local.DEBUG: Message-ID: <2a0e66b8ec36a482a88538e40d12c549@test.dappr.com.au>
+Date: Tue, 07 Nov 2023 01:28:53 +1100
+Subject: Booking Notification
+From: dappr <quicktest1901aga@gmail.com>
+Reply-To: Example <hello@example.com>
+To: hello@dappr.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1699280933_6e3f1d9f5866b5d8e85bc1f54262f658_=_"
+
+<!doctype html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <style type="text/css" rel="stylesheet" media="all">
+        /* Media Queries */
+        @media  only screen and (max-width: 500px) {
+            .button {
+                width: 100% !important;
+            }
+        }
+    </style>
+</head>
+
+
+
+<body style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; height: 100%; hyphens: auto; line-height: 1.4; -moz-hyphens: auto; -ms-word-break: break-all; -webkit-hyphens: auto; -webkit-text-size-adjust: none; word-break: break-word; margin: 0; padding: 0; width: 100%; background-color: #F2F4F6;">
+    <table width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+        <tr>
+            <td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; width: 100%; margin: 0; padding: 0; background-color: #F2F4F6;" align="center">
+                <table width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+                    <!-- Logo -->
+                    <tr>
+                        <td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 25px 0; text-align: center;">
+                            <a style="box-sizing: border-box; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size: 16px; font-weight: bold; color: #2F3133; text-decoration: none; text-shadow: 0 1px 0 white;" href="https://test.dappr.com.au" target="_blank">
+                                <img src="https://test.dappr.com.au/image/logo.png?p=full" width="200px" class="brand-logo" alt="DAPPR" title="DAPPR" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; max-width: 100%; border: none;">
+                                
+                            </a>
+                        </td>
+                    </tr>
+
+                    <!-- Email Body -->
+                    <tr>
+                        <td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; width: 100%; margin: 0; padding: 0; border-top: 1px solid #EDEFF2; border-bottom: 1px solid #EDEFF2; background-color: #FFF;" width="100%">
+                            <table style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; width: auto; max-width: 570px; margin: 0 auto; padding: 0;" align="center" width="570" cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td style="box-sizing: border-box; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; padding: 35px;">
+                                        <!-- Greeting -->
+                                        <h1 style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin-top: 0; color: #2F3133; font-size: 19px; font-weight: bold; text-align: left;">
+                                                                                                                                                Hello!
+                                                                                                                                    </h1>
+
+                                        <!-- Intro -->
+                                                                                    <p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; text-align: left; margin-top: 0; color: #74787E; font-size: 16px; line-height: 1.5em;">
+                                                The introduction to the notification.
+                                            </p>
+                                        
+                                        <!-- Action Button -->
+                                                                                    <table style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; width: 100%; margin: 30px auto; padding: 0; text-align: center;" align="center" width="100%" cellpadding="0" cellspacing="0">
+                                                <tr>
+                                                    <td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+                                                        
+                                                        <a href="https://test.dappr.com.au" style="box-sizing: border-box; box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16); font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; display: inline-block; width: 200px; min-height: 20px; padding: 10px; background-color: #3869D4; border-radius: 3px; color: #ffffff; font-size: 15px; line-height: 25px; text-align: center; text-decoration: none; -webkit-text-size-adjust: none;" class="button" target="_blank">
+                                                            Notification Action
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        
+                                        <!-- Outro -->
+                                                                                    <p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; text-align: left; margin-top: 0; color: #74787E; font-size: 16px; line-height: 1.5em;">
+                                                Thank you for using our application!
+                                            </p>
+                                        
+                                        <!-- Salutation -->
+                                        <p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; text-align: left; margin-top: 0; color: #74787E; font-size: 16px; line-height: 1.5em;">
+                                            Regards,<br>Dappr
+                                        </p>
+
+                                        <!-- Sub Copy -->
+                                                                                    <table style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin-top: 25px; padding-top: 25px; border-top: 1px solid #EDEFF2;">
+                                                <tr>
+                                                    <td style="box-sizing: border-box; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
+                                                        <p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; text-align: left; margin-top: 0; color: #74787E; font-size: 12px; line-height: 1.5em;">
+                                                            If you’re having trouble clicking the "Notification Action" button,
+                                                            copy and paste the URL below into your web browser:
+                                                        </p>
+
+                                                        <p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; text-align: left; margin-top: 0; color: #74787E; font-size: 12px; line-height: 1.5em;">
+                                                            <a style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #3869D4;" href="https://test.dappr.com.au" target="_blank">
+                                                                https://test.dappr.com.au
+                                                            </a>
+                                                        </p>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                                                            </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+
+                    <!-- Footer -->
+                    <tr>
+                        <td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+                            <table style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; width: auto; max-width: 570px; margin: 0 auto; padding: 0; text-align: center;" align="center" width="570" cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td style="box-sizing: border-box; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; color: #AEAEAE; padding: 35px; text-align: center;">
+                                        <p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; text-align: left; margin-top: 0; color: #74787E; font-size: 12px; line-height: 1.5em;">
+                                            © 2023
+                                            <a style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #3869D4;" href="https://test.dappr.com.au" target="_blank">DAPPR</a>.
+                                            All rights reserved.
+                                        </p>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+    <style type="text/css" rel="stylesheet" media="all">
+        /* Media Queries */
+        @media  only screen and (max-width: 500px) {
+            .button {
+                width: 100% !important;
+            }
+        }
+    </style>
+</head>
+
+<body style="margin: 0; padding: 0; width: 100%; background-color: #F2F4F6;">
+    <table width="100%" cellpadding="0" cellspacing="0">
+        <tr>
+            <td style="width: 100%; margin: 0; padding: 0; background-color: #F2F4F6;" align="center">
+                <table width="100%" cellpadding="0" cellspacing="0">
+                    <!-- Logo -->
+                    <tr>
+                        <td style="padding: 25px 0; text-align: center;">
+                            <a style="font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size: 16px; font-weight: bold; color: #2F3133; text-decoration: none; text-shadow: 0 1px 0 white;" href="https://test.dappr.com.au" target="_blank">
+                                <img src="https://test.dappr.com.au/image/logo.png?p=full" width="200px" class="brand-logo" alt="DAPPR" title="DAPPR">
+                                
+                            </a>
+                        </td>
+                    </tr>
+
+                    <!-- Email Body -->
+                    <tr>
+                        <td style="width: 100%; margin: 0; padding: 0; border-top: 1px solid #EDEFF2; border-bottom: 1px solid #EDEFF2; background-color: #FFF;" width="100%">
+                            <table style="width: auto; max-width: 570px; margin: 0 auto; padding: 0;" align="center" width="570" cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td style="font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; padding: 35px;">
+                                        <!-- Greeting -->
+                                        <h1 style="margin-top: 0; color: #2F3133; font-size: 19px; font-weight: bold; text-align: left;">
+                                                                                                                                                Hello!
+                                                                                                                                    </h1>
+
+                                        <!-- Intro -->
+                                                                                    <p style="margin-top: 0; color: #74787E; font-size: 16px; line-height: 1.5em;">
+                                                The introduction to the notification.
+                                            </p>
+                                        
+                                        <!-- Action Button -->
+                                                                                    <table style="width: 100%; margin: 30px auto; padding: 0; text-align: center;" align="center" width="100%" cellpadding="0" cellspacing="0">
+                                                <tr>
+                                                    <td align="center">
+                                                        
+                                                        <a href="https://test.dappr.com.au"
+                                                            style="font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; display: block; display: inline-block; width: 200px; min-height: 20px; padding: 10px;
+                 background-color: #3869D4; border-radius: 3px; color: #ffffff; font-size: 15px; line-height: 25px;
+                 text-align: center; text-decoration: none; -webkit-text-size-adjust: none; background-color: #3869D4;"
+                                                            class="button"
+                                                            target="_blank">
+                                                            Notification Action
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        
+                                        <!-- Outro -->
+                                                                                    <p style="margin-top: 0; color: #74787E; font-size: 16px; line-height: 1.5em;">
+                                                Thank you for using our application!
+                                            </p>
+                                        
+                                        <!-- Salutation -->
+                                        <p style="margin-top: 0; color: #74787E; font-size: 16px; line-height: 1.5em;">
+                                            Regards,<br>Dappr
+                                        </p>
+
+                                        <!-- Sub Copy -->
+                                                                                    <table style="margin-top: 25px; padding-top: 25px; border-top: 1px solid #EDEFF2;">
+                                                <tr>
+                                                    <td style="font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
+                                                        <p style="margin-top: 0; color: #74787E; font-size: 12px; line-height: 1.5em;">
+                                                            If you’re having trouble clicking the "Notification Action" button,
+                                                            copy and paste the URL below into your web browser:
+                                                        </p>
+
+                                                        <p style="margin-top: 0; color: #74787E; font-size: 12px; line-height: 1.5em;">
+                                                            <a style="color: #3869D4;" href="https://test.dappr.com.au" target="_blank">
+                                                                https://test.dappr.com.au
+                                                            </a>
+                                                        </p>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                                                            </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+
+                    <!-- Footer -->
+                    <tr>
+                        <td>
+                            <table style="width: auto; max-width: 570px; margin: 0 auto; padding: 0; text-align: center;" align="center" width="570" cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td style="font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; color: #AEAEAE; padding: 35px; text-align: center;">
+                                        <p style="margin-top: 0; color: #74787E; font-size: 12px; line-height: 1.5em;">
+                                            © 2023
+                                            <a style="color: #3869D4;" href="https://test.dappr.com.au" target="_blank">DAPPR</a>.
+                                            All rights reserved.
+                                        </p>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
+  
+[2023-11-07 01:28:53] local.INFO: ........................... Message Sent Successfully .................................  
+[2023-11-07 01:28:53] local.INFO: ............................. Message Sending .....................................  
+[2023-11-07 01:28:53] local.INFO: array (
+  'subject' => '',
+)  
+[2023-11-07 01:28:53] local.DEBUG: Message-ID: <3abf4d66bcf7fac9bc0aeebbf7c44007@test.dappr.com.au>
+Date: Tue, 07 Nov 2023 01:28:53 +1100
+Subject: New booking is come
+From: contact@manipuraco.net
+Reply-To: Example <hello@example.com>
+To: hello@dappr.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+ 
+</head>
+<body>
+ 
+<p>Hi,<br><h1>New booking is come</h1><span>Booking Date: <b>15-11-2023</b></span><span>Customer email id: <b>12_may_test_1@gmail.com</b></span>Thanks</p>
+ 
+</body>
+</html> 
+  
+[2023-11-07 01:28:53] local.INFO: ........................... Message Sent Successfully .................................  
+[2023-11-07 01:28:53] local.INFO: ............................. Message Sending .....................................  
+[2023-11-07 01:28:53] local.INFO: array (
+  'subject' => '',
+)  
+[2023-11-07 01:28:53] local.DEBUG: Message-ID: <998853963061a91fc216fbd8863948b9@test.dappr.com.au>
+Date: Tue, 07 Nov 2023 01:28:53 +1100
+Subject: Thanks for booking
+From: contact@manipuraco.net
+Reply-To: Example <hello@example.com>
+To: 12_may_test_1@gmail.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+ 
+</head>
+<body>
+ 
+Thanks for booking
+ 
+</body>
+</html> 
+  
+[2023-11-07 01:28:53] local.INFO: ........................... Message Sent Successfully .................................  
+[2023-11-07 01:31:18] local.INFO: ............................. Message Sending .....................................  
+[2023-11-07 01:31:18] local.INFO: array (
+  'subject' => '',
+)  
+[2023-11-07 01:31:18] local.DEBUG: Message-ID: <692919b97e7c52ff68d438d8e02c5e21@test.dappr.com.au>
+Date: Tue, 07 Nov 2023 01:31:18 +1100
+Subject: Booking Notification
+From: dappr <quicktest1901aga@gmail.com>
+Reply-To: Example <hello@example.com>
+To: hello@dappr.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1699281078_966b57782df8376b94aa04e79d526180_=_"
+
+<!doctype html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <style type="text/css" rel="stylesheet" media="all">
+        /* Media Queries */
+        @media  only screen and (max-width: 500px) {
+            .button {
+                width: 100% !important;
+            }
+        }
+    </style>
+</head>
+
+
+
+<body style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; height: 100%; hyphens: auto; line-height: 1.4; -moz-hyphens: auto; -ms-word-break: break-all; -webkit-hyphens: auto; -webkit-text-size-adjust: none; word-break: break-word; margin: 0; padding: 0; width: 100%; background-color: #F2F4F6;">
+    <table width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+        <tr>
+            <td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; width: 100%; margin: 0; padding: 0; background-color: #F2F4F6;" align="center">
+                <table width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+                    <!-- Logo -->
+                    <tr>
+                        <td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 25px 0; text-align: center;">
+                            <a style="box-sizing: border-box; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size: 16px; font-weight: bold; color: #2F3133; text-decoration: none; text-shadow: 0 1px 0 white;" href="http://test.dappr.com.au" target="_blank">
+                                <img src="http://test.dappr.com.au/image/logo.png?p=full" width="200px" class="brand-logo" alt="DAPPR" title="DAPPR" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; max-width: 100%; border: none;">
+                                
+                            </a>
+                        </td>
+                    </tr>
+
+                    <!-- Email Body -->
+                    <tr>
+                        <td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; width: 100%; margin: 0; padding: 0; border-top: 1px solid #EDEFF2; border-bottom: 1px solid #EDEFF2; background-color: #FFF;" width="100%">
+                            <table style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; width: auto; max-width: 570px; margin: 0 auto; padding: 0;" align="center" width="570" cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td style="box-sizing: border-box; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; padding: 35px;">
+                                        <!-- Greeting -->
+                                        <h1 style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin-top: 0; color: #2F3133; font-size: 19px; font-weight: bold; text-align: left;">
+                                                                                                                                                Hello!
+                                                                                                                                    </h1>
+
+                                        <!-- Intro -->
+                                                                                    <p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; text-align: left; margin-top: 0; color: #74787E; font-size: 16px; line-height: 1.5em;">
+                                                The introduction to the notification.
+                                            </p>
+                                        
+                                        <!-- Action Button -->
+                                                                                    <table style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; width: 100%; margin: 30px auto; padding: 0; text-align: center;" align="center" width="100%" cellpadding="0" cellspacing="0">
+                                                <tr>
+                                                    <td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+                                                        
+                                                        <a href="http://test.dappr.com.au" style="box-sizing: border-box; box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16); font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; display: inline-block; width: 200px; min-height: 20px; padding: 10px; background-color: #3869D4; border-radius: 3px; color: #ffffff; font-size: 15px; line-height: 25px; text-align: center; text-decoration: none; -webkit-text-size-adjust: none;" class="button" target="_blank">
+                                                            Notification Action
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        
+                                        <!-- Outro -->
+                                                                                    <p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; text-align: left; margin-top: 0; color: #74787E; font-size: 16px; line-height: 1.5em;">
+                                                Thank you for using our application!
+                                            </p>
+                                        
+                                        <!-- Salutation -->
+                                        <p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; text-align: left; margin-top: 0; color: #74787E; font-size: 16px; line-height: 1.5em;">
+                                            Regards,<br>Dappr
+                                        </p>
+
+                                        <!-- Sub Copy -->
+                                                                                    <table style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin-top: 25px; padding-top: 25px; border-top: 1px solid #EDEFF2;">
+                                                <tr>
+                                                    <td style="box-sizing: border-box; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
+                                                        <p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; text-align: left; margin-top: 0; color: #74787E; font-size: 12px; line-height: 1.5em;">
+                                                            If you’re having trouble clicking the "Notification Action" button,
+                                                            copy and paste the URL below into your web browser:
+                                                        </p>
+
+                                                        <p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; text-align: left; margin-top: 0; color: #74787E; font-size: 12px; line-height: 1.5em;">
+                                                            <a style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #3869D4;" href="http://test.dappr.com.au" target="_blank">
+                                                                http://test.dappr.com.au
+                                                            </a>
+                                                        </p>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                                                            </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+
+                    <!-- Footer -->
+                    <tr>
+                        <td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+                            <table style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; width: auto; max-width: 570px; margin: 0 auto; padding: 0; text-align: center;" align="center" width="570" cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td style="box-sizing: border-box; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; color: #AEAEAE; padding: 35px; text-align: center;">
+                                        <p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; text-align: left; margin-top: 0; color: #74787E; font-size: 12px; line-height: 1.5em;">
+                                            © 2023
+                                            <a style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #3869D4;" href="http://test.dappr.com.au" target="_blank">DAPPR</a>.
+                                            All rights reserved.
+                                        </p>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+    <style type="text/css" rel="stylesheet" media="all">
+        /* Media Queries */
+        @media  only screen and (max-width: 500px) {
+            .button {
+                width: 100% !important;
+            }
+        }
+    </style>
+</head>
+
+<body style="margin: 0; padding: 0; width: 100%; background-color: #F2F4F6;">
+    <table width="100%" cellpadding="0" cellspacing="0">
+        <tr>
+            <td style="width: 100%; margin: 0; padding: 0; background-color: #F2F4F6;" align="center">
+                <table width="100%" cellpadding="0" cellspacing="0">
+                    <!-- Logo -->
+                    <tr>
+                        <td style="padding: 25px 0; text-align: center;">
+                            <a style="font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size: 16px; font-weight: bold; color: #2F3133; text-decoration: none; text-shadow: 0 1px 0 white;" href="http://test.dappr.com.au" target="_blank">
+                                <img src="http://test.dappr.com.au/image/logo.png?p=full" width="200px" class="brand-logo" alt="DAPPR" title="DAPPR">
+                                
+                            </a>
+                        </td>
+                    </tr>
+
+                    <!-- Email Body -->
+                    <tr>
+                        <td style="width: 100%; margin: 0; padding: 0; border-top: 1px solid #EDEFF2; border-bottom: 1px solid #EDEFF2; background-color: #FFF;" width="100%">
+                            <table style="width: auto; max-width: 570px; margin: 0 auto; padding: 0;" align="center" width="570" cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td style="font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; padding: 35px;">
+                                        <!-- Greeting -->
+                                        <h1 style="margin-top: 0; color: #2F3133; font-size: 19px; font-weight: bold; text-align: left;">
+                                                                                                                                                Hello!
+                                                                                                                                    </h1>
+
+                                        <!-- Intro -->
+                                                                                    <p style="margin-top: 0; color: #74787E; font-size: 16px; line-height: 1.5em;">
+                                                The introduction to the notification.
+                                            </p>
+                                        
+                                        <!-- Action Button -->
+                                                                                    <table style="width: 100%; margin: 30px auto; padding: 0; text-align: center;" align="center" width="100%" cellpadding="0" cellspacing="0">
+                                                <tr>
+                                                    <td align="center">
+                                                        
+                                                        <a href="http://test.dappr.com.au"
+                                                            style="font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; display: block; display: inline-block; width: 200px; min-height: 20px; padding: 10px;
+                 background-color: #3869D4; border-radius: 3px; color: #ffffff; font-size: 15px; line-height: 25px;
+                 text-align: center; text-decoration: none; -webkit-text-size-adjust: none; background-color: #3869D4;"
+                                                            class="button"
+                                                            target="_blank">
+                                                            Notification Action
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        
+                                        <!-- Outro -->
+                                                                                    <p style="margin-top: 0; color: #74787E; font-size: 16px; line-height: 1.5em;">
+                                                Thank you for using our application!
+                                            </p>
+                                        
+                                        <!-- Salutation -->
+                                        <p style="margin-top: 0; color: #74787E; font-size: 16px; line-height: 1.5em;">
+                                            Regards,<br>Dappr
+                                        </p>
+
+                                        <!-- Sub Copy -->
+                                                                                    <table style="margin-top: 25px; padding-top: 25px; border-top: 1px solid #EDEFF2;">
+                                                <tr>
+                                                    <td style="font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
+                                                        <p style="margin-top: 0; color: #74787E; font-size: 12px; line-height: 1.5em;">
+                                                            If you’re having trouble clicking the "Notification Action" button,
+                                                            copy and paste the URL below into your web browser:
+                                                        </p>
+
+                                                        <p style="margin-top: 0; color: #74787E; font-size: 12px; line-height: 1.5em;">
+                                                            <a style="color: #3869D4;" href="http://test.dappr.com.au" target="_blank">
+                                                                http://test.dappr.com.au
+                                                            </a>
+                                                        </p>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                                                            </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+
+                    <!-- Footer -->
+                    <tr>
+                        <td>
+                            <table style="width: auto; max-width: 570px; margin: 0 auto; padding: 0; text-align: center;" align="center" width="570" cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td style="font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; color: #AEAEAE; padding: 35px; text-align: center;">
+                                        <p style="margin-top: 0; color: #74787E; font-size: 12px; line-height: 1.5em;">
+                                            © 2023
+                                            <a style="color: #3869D4;" href="http://test.dappr.com.au" target="_blank">DAPPR</a>.
+                                            All rights reserved.
+                                        </p>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
+  
+[2023-11-07 01:31:18] local.INFO: ........................... Message Sent Successfully .................................  
+[2023-11-07 01:31:18] local.INFO: ............................. Message Sending .....................................  
+[2023-11-07 01:31:18] local.INFO: array (
+  'subject' => '',
+)  
+[2023-11-07 01:31:18] local.DEBUG: Message-ID: <07390925969ae4fa9883d67435b620db@test.dappr.com.au>
+Date: Tue, 07 Nov 2023 01:31:18 +1100
+Subject: New booking is come
+From: contact@manipuraco.net
+Reply-To: Example <hello@example.com>
+To: hello@dappr.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+ 
+</head>
+<body>
+ 
+<p>Hi,<br><h1>New booking is come</h1><span>Booking Date: <b>8-11-2023</b></span><span>Customer email id: <b>1_nov_testing_3@gmail.com</b></span>Thanks</p>
+ 
+</body>
+</html> 
+  
+[2023-11-07 01:31:18] local.INFO: ........................... Message Sent Successfully .................................  
+[2023-11-07 01:31:18] local.INFO: ............................. Message Sending .....................................  
+[2023-11-07 01:31:18] local.INFO: array (
+  'subject' => '',
+)  
+[2023-11-07 01:31:18] local.DEBUG: Message-ID: <3b46ea63d8c61291d59527c28680022e@test.dappr.com.au>
+Date: Tue, 07 Nov 2023 01:31:18 +1100
+Subject: Thanks for booking
+From: contact@manipuraco.net
+Reply-To: Example <hello@example.com>
+To: 1_nov_testing_3@gmail.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+ 
+</head>
+<body>
+ 
+Thanks for booking
+ 
+</body>
+</html> 
+  
+[2023-11-07 01:31:18] local.INFO: ........................... Message Sent Successfully .................................  
+[2023-11-07 01:31:54] local.INFO: ............................. Message Sending .....................................  
+[2023-11-07 01:31:54] local.INFO: array (
+  'subject' => '',
+)  
+[2023-11-07 01:31:54] local.DEBUG: Message-ID: <6321b8a48bbdc014de742bf7bcd68bb3@test.dappr.com.au>
+Date: Tue, 07 Nov 2023 01:31:54 +1100
+Subject: Dappr Best collections of clothes
+From: stylistdappr@dappr.com
+Reply-To: Example <hello@example.com>
+To: 12_may_test_1@gmail.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+ 
+</head>
+<body>
+ 
+<p>Hi, <br>Our team  read  all your requirements.  Please visit on below link to view our collection. <br></p><p><a href="https://test.dappr.com.au/stylist/reveal/78/99/eyJpdiI6Im9aM25vYXdOcTRsKy9OTHZXenpTcVE9PSIsInZhbHVlIjoiMm90SjZ2U1d0bDdFN1h6TmhUTm5xUT09IiwibWFjIjoiOTNlMDQ2YzI4YWFiNjgyYzg0Yzk0MjYyZWQ1ODJjOTg2MWMzYzMwZmE4YTkxZjU4NzFkOWYzNWU4MTExMzg3NSIsInRhZyI6IiJ9 ">Click to view our Collection</a></p><p>Thanks  </p>
+ 
+</body>
+</html> 
+  
+[2023-11-07 01:31:54] local.INFO: ........................... Message Sent Successfully .................................  
+[2023-11-07 01:33:06] local.INFO: ............................. Message Sending .....................................  
+[2023-11-07 01:33:06] local.INFO: array (
+  'subject' => '',
+)  
+[2023-11-07 01:33:06] local.DEBUG: Message-ID: <ab088ccc6b3f018f6c6de6b696b02e07@test.dappr.com.au>
+Date: Tue, 07 Nov 2023 01:33:06 +1100
+Subject: Dappr Best collections of clothes
+From: stylistdappr@dappr.com
+Reply-To: Example <hello@example.com>
+To: 1_nov_testing_3@gmail.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+ 
+</head>
+<body>
+ 
+<p>Hi, <br>Our team  read  all your requirements.  Please visit on below link to view our collection. <br></p><p><a href="https://test.dappr.com.au/stylist/reveal/79/100/eyJpdiI6Imo3elpjWTU2ZkFWSlN6dmtPdlQrZWc9PSIsInZhbHVlIjoidnNGWU5XRkJzUE5qYTlRaE1jUUFvdz09IiwibWFjIjoiYTY5ZjAyYjc1ZjE5MmE0ZjQ0NDlhMjI2MDk4ZmZjNmQxZjc1NDg2MmI4MjFiZDU2NmRhZmM4ZmM3Yzk3OTg1MSIsInRhZyI6IiJ9 ">Click to view our Collection</a></p><p>Thanks  </p>
+ 
+</body>
+</html> 
+  
+[2023-11-07 01:33:06] local.INFO: ........................... Message Sent Successfully .................................  
+[2023-11-07 01:35:13] local.ERROR: stripe payment failed:: Your card was declined. Your request was in test mode, but used a non test (live) card. For a list of valid test cards, visit: https://stripe.com/docs/testing.  
+[2023-11-07 01:35:13] local.ERROR: (Status 402) (Request req_xCtxAetMV0wQKB) Your card was declined. Your request was in test mode, but used a non test (live) card. For a list of valid test cards, visit: https://stripe.com/docs/testing.  
+[2023-11-07 01:36:45] local.INFO: ............................. Message Sending .....................................  
+[2023-11-07 01:36:45] local.INFO: array (
+  'subject' => '[Order ID: #277300] Your order been paid successfully!',
+)  
+[2023-11-07 01:36:45] local.DEBUG: Message-ID: <c1c8662235438cb1d670d2d36b3a302f@test.dappr.com.au>
+Date: Tue, 07 Nov 2023 01:36:45 +1100
+Subject: [Order ID: #277300] Your order been paid successfully!
+From: dappr <quicktest1901aga@gmail.com>
+Reply-To: Example <hello@example.com>
+To: 12_may_test_1@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1699281405_c00c0a3e07e53eaa4dce3b1c0d5d7b06_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #f5f8fa; color: #74787E; height: 100%; hyphens: auto; line-height: 1.4; margin: 0; -moz-hyphens: auto; -ms-word-break: break-all; width: 100% !important; -webkit-hyphens: auto; -webkit-text-size-adjust: none; word-break: break-word;">
+<style>
+@media  only screen and (max-width: 600px) {
+.inner-body {
+width: 100% !important;
+}
+
+.footer {
+width: 100% !important;
+}
+}
+
+@media  only screen and (max-width: 500px) {
+.button {
+width: 100% !important;
+}
+}
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #f5f8fa; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table class="content" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td class="header" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 25px 0; text-align: center;">
+<a href="http://localhost/hype-dappr/public/" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #bbbfc3; font-size: 19px; font-weight: bold; text-decoration: none; text-shadow: 0 1px 0 white;">
+<img src="https://test.dappr.com.au/image/logo.png?p=full" width="200px" class="brand-logo" alt="DAPPR" title="DAPPR" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; max-width: 100%; border: none;">
+</a>
+</td>
+</tr>
+
+<!-- Email Body -->
+<tr>
+<td class="body" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #FFFFFF; border-bottom: 1px solid #EDEFF2; border-top: 1px solid #EDEFF2; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #FFFFFF; margin: 0 auto; padding: 0; width: 570px; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 570px;">
+<!-- Body content -->
+<tr>
+<td class="content-cell" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 35px;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">#Hello 12_may_test_1</p>
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">This is a notification to let you know that your order [Order ID #277300] has been paid successfully and it's on your way. Please see below for order detail. You can also check your orders from your dashboard.
+<br></p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 30px auto; padding: 0; text-align: center; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table border="0" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<a href="https://test.dappr.com.au" class="button button-green" target="_blank" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; border-radius: 3px; box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16); color: #FFF; display: inline-block; text-decoration: none; -webkit-text-size-adjust: none; background-color: #2ab27b; border-top: 10px solid #2ab27b; border-right: 18px solid #2ab27b; border-bottom: 10px solid #2ab27b; border-left: 18px solid #2ab27b;">Visit the shop</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="panel" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0 0 21px;">
+<tr>
+<td class="panel-content" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #EDEFF2; padding: 16px;">
+<table width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td class="panel-item" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 0;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left; margin-bottom: 0; padding-bottom: 0;">Shop name: DAPPR<br>
+Order ID: #277300<br>
+Payment method: Stripe<br>
+Payment status: PAID<br>
+Order status:  <strong style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">CONFIRMED</strong><br>
+<br>
+Shipping address: </p>
+<address style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">Xjdj<br>Djdj<br>Fjfj, <br>Norfolk Island 2222<br>Australia<br><abbr title="Phone" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">P:</abbr> Djjdj</address>
+<br><br>
+Billing address: <address style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">Xjdj<br>Djdj<br>Fjfj, <br>Norfolk Island 2222<br>Australia<br><abbr title="Phone" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">P:</abbr> Djjdj</address>
+<br>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<br>
+Thanks,<br>
+DAPPR, DAPPR
+
+
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table class="footer" align="center" width="570" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0 auto; padding: 0; text-align: center; width: 570px; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 570px;">
+<tr>
+<td class="content-cell" align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 35px;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; line-height: 1.5em; margin-top: 0; color: #AEAEAE; font-size: 12px; text-align: center;">© 2023 DAPPR. All rights reserved.</p>
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+[](http://localhost/hype-dappr/public/)
+
+#Hello 12_may_test_1
+
+This is a notification to let you know that your order [Order ID #277300] has been paid successfully and it's on your way. Please see below for order detail. You can also check your orders from your dashboard.
+
+Visit the shop: https://test.dappr.com.au
+
+Shop name: DAPPR
+Order ID: #277300
+Payment method: Stripe
+Payment status: PAID
+Order status:  CONFIRMED
+
+Shipping address: XjdjDjdjFjfj, Norfolk Island 2222AustraliaP: Djjdj
+Billing address: XjdjDjdjFjfj, Norfolk Island 2222AustraliaP: Djjdj
+
+Thanks,
+DAPPR, DAPPR
+
+© 2023 DAPPR. All rights reserved.
+  
+[2023-11-07 01:36:45] local.INFO: ........................... Message Sent Successfully .................................  
+[2023-11-07 01:36:45] local.INFO: ............................. Message Sending .....................................  
+[2023-11-07 01:36:45] local.INFO: array (
+  'subject' => '[Order ID: #277300] your order has been placed successfully!',
+)  
+[2023-11-07 01:36:45] local.DEBUG: Message-ID: <4cde8e35f64a81210615e4ce9998629b@test.dappr.com.au>
+Date: Tue, 07 Nov 2023 01:36:45 +1100
+Subject: [Order ID: #277300] your order has been placed successfully!
+From: dappr <quicktest1901aga@gmail.com>
+Reply-To: Example <hello@example.com>
+To: hello@dappr.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1699281405_c298c837ba245a335eca96dec4360b66_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #f5f8fa; color: #74787E; height: 100%; hyphens: auto; line-height: 1.4; margin: 0; -moz-hyphens: auto; -ms-word-break: break-all; width: 100% !important; -webkit-hyphens: auto; -webkit-text-size-adjust: none; word-break: break-word;">
+<style>
+@media  only screen and (max-width: 600px) {
+.inner-body {
+width: 100% !important;
+}
+
+.footer {
+width: 100% !important;
+}
+}
+
+@media  only screen and (max-width: 500px) {
+.button {
+width: 100% !important;
+}
+}
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #f5f8fa; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table class="content" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td class="header" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 25px 0; text-align: center;">
+<a href="http://localhost/hype-dappr/public/" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #bbbfc3; font-size: 19px; font-weight: bold; text-decoration: none; text-shadow: 0 1px 0 white;">
+<img src="https://test.dappr.com.au/image/logo.png?p=full" width="200px" class="brand-logo" alt="DAPPR" title="DAPPR" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; max-width: 100%; border: none;">
+</a>
+</td>
+</tr>
+
+<!-- Email Body -->
+<tr>
+<td class="body" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #FFFFFF; border-bottom: 1px solid #EDEFF2; border-top: 1px solid #EDEFF2; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #FFFFFF; margin: 0 auto; padding: 0; width: 570px; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 570px;">
+<!-- Body content -->
+<tr>
+<td class="content-cell" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 35px;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">#Hello 12_may_test_1</p>
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">Thank you for choosing us! Your order [Order ID #277300] has been placed successfully. We'll let you know the status of the order.
+<br></p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 30px auto; padding: 0; text-align: center; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table border="0" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<a href="https://test.dappr.com.au" class="button button-blue" target="_blank" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; border-radius: 3px; box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16); color: #FFF; display: inline-block; text-decoration: none; -webkit-text-size-adjust: none; background-color: #3097D1; border-top: 10px solid #3097D1; border-right: 18px solid #3097D1; border-bottom: 10px solid #3097D1; border-left: 18px solid #3097D1;">Visit the shop</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="panel" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0 0 21px;">
+<tr>
+<td class="panel-content" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #EDEFF2; padding: 16px;">
+<table width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td class="panel-item" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 0;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left; margin-bottom: 0; padding-bottom: 0;">Shop name: DAPPR<br>
+Order ID: #277300<br>
+Payment method: Stripe<br>
+Payment status: PAID<br>
+Order status:  <strong style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">CONFIRMED</strong><br>
+<br>
+Shipping address: </p>
+<address style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">Xjdj<br>Djdj<br>Fjfj, <br>Norfolk Island 2222<br>Australia<br><abbr title="Phone" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">P:</abbr> Djjdj</address>
+<br><br>
+Billing address: <address style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">Xjdj<br>Djdj<br>Fjfj, <br>Norfolk Island 2222<br>Australia<br><abbr title="Phone" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">P:</abbr> Djjdj</address>
+<br>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<br>
+Thanks,<br>
+DAPPR, DAPPR
+
+
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table class="footer" align="center" width="570" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0 auto; padding: 0; text-align: center; width: 570px; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 570px;">
+<tr>
+<td class="content-cell" align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 35px;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; line-height: 1.5em; margin-top: 0; color: #AEAEAE; font-size: 12px; text-align: center;">© 2023 DAPPR. All rights reserved.</p>
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+[](http://localhost/hype-dappr/public/)
+
+#Hello 12_may_test_1
+
+Thank you for choosing us! Your order [Order ID #277300] has been placed successfully. We'll let you know the status of the order.
+
+Visit the shop: https://test.dappr.com.au
+
+Shop name: DAPPR
+Order ID: #277300
+Payment method: Stripe
+Payment status: PAID
+Order status:  CONFIRMED
+
+Shipping address: XjdjDjdjFjfj, Norfolk Island 2222AustraliaP: Djjdj
+Billing address: XjdjDjdjFjfj, Norfolk Island 2222AustraliaP: Djjdj
+
+Thanks,
+DAPPR, DAPPR
+
+© 2023 DAPPR. All rights reserved.
+  
+[2023-11-07 01:36:45] local.INFO: ........................... Message Sent Successfully .................................  
+[2023-11-07 01:36:45] local.INFO: ............................. Message Sending .....................................  
+[2023-11-07 01:36:45] local.INFO: array (
+  'subject' => '[Order ID: #277300] your order has been placed successfully!',
+)  
+[2023-11-07 01:36:45] local.DEBUG: Message-ID: <3022b522686733e0613d2dc990ce2101@test.dappr.com.au>
+Date: Tue, 07 Nov 2023 01:36:45 +1100
+Subject: [Order ID: #277300] your order has been placed successfully!
+From: dappr <quicktest1901aga@gmail.com>
+Reply-To: Example <hello@example.com>
+To: 12_may_test_1@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1699281405_21eeb2ac6306d4dbe1fbc2e3fbbbac00_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #f5f8fa; color: #74787E; height: 100%; hyphens: auto; line-height: 1.4; margin: 0; -moz-hyphens: auto; -ms-word-break: break-all; width: 100% !important; -webkit-hyphens: auto; -webkit-text-size-adjust: none; word-break: break-word;">
+<style>
+@media  only screen and (max-width: 600px) {
+.inner-body {
+width: 100% !important;
+}
+
+.footer {
+width: 100% !important;
+}
+}
+
+@media  only screen and (max-width: 500px) {
+.button {
+width: 100% !important;
+}
+}
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #f5f8fa; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table class="content" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td class="header" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 25px 0; text-align: center;">
+<a href="http://localhost/hype-dappr/public/" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #bbbfc3; font-size: 19px; font-weight: bold; text-decoration: none; text-shadow: 0 1px 0 white;">
+<img src="https://test.dappr.com.au/image/logo.png?p=full" width="200px" class="brand-logo" alt="DAPPR" title="DAPPR" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; max-width: 100%; border: none;">
+</a>
+</td>
+</tr>
+
+<!-- Email Body -->
+<tr>
+<td class="body" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #FFFFFF; border-bottom: 1px solid #EDEFF2; border-top: 1px solid #EDEFF2; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #FFFFFF; margin: 0 auto; padding: 0; width: 570px; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 570px;">
+<!-- Body content -->
+<tr>
+<td class="content-cell" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 35px;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">#Hello 12_may_test_1</p>
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">Thank you for choosing us! Your order [Order ID #277300] has been placed successfully. We'll let you know the status of the order.
+<br></p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 30px auto; padding: 0; text-align: center; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table border="0" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<a href="https://test.dappr.com.au" class="button button-blue" target="_blank" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; border-radius: 3px; box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16); color: #FFF; display: inline-block; text-decoration: none; -webkit-text-size-adjust: none; background-color: #3097D1; border-top: 10px solid #3097D1; border-right: 18px solid #3097D1; border-bottom: 10px solid #3097D1; border-left: 18px solid #3097D1;">Visit the shop</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="panel" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0 0 21px;">
+<tr>
+<td class="panel-content" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #EDEFF2; padding: 16px;">
+<table width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td class="panel-item" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 0;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left; margin-bottom: 0; padding-bottom: 0;">Shop name: DAPPR<br>
+Order ID: #277300<br>
+Payment method: Stripe<br>
+Payment status: PAID<br>
+Order status:  <strong style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">CONFIRMED</strong><br>
+<br>
+Shipping address: </p>
+<address style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">Xjdj<br>Djdj<br>Fjfj, <br>Norfolk Island 2222<br>Australia<br><abbr title="Phone" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">P:</abbr> Djjdj</address>
+<br><br>
+Billing address: <address style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">Xjdj<br>Djdj<br>Fjfj, <br>Norfolk Island 2222<br>Australia<br><abbr title="Phone" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">P:</abbr> Djjdj</address>
+<br>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<br>
+Thanks,<br>
+DAPPR, DAPPR
+
+
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table class="footer" align="center" width="570" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0 auto; padding: 0; text-align: center; width: 570px; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 570px;">
+<tr>
+<td class="content-cell" align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 35px;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; line-height: 1.5em; margin-top: 0; color: #AEAEAE; font-size: 12px; text-align: center;">© 2023 DAPPR. All rights reserved.</p>
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+[](http://localhost/hype-dappr/public/)
+
+#Hello 12_may_test_1
+
+Thank you for choosing us! Your order [Order ID #277300] has been placed successfully. We'll let you know the status of the order.
+
+Visit the shop: https://test.dappr.com.au
+
+Shop name: DAPPR
+Order ID: #277300
+Payment method: Stripe
+Payment status: PAID
+Order status:  CONFIRMED
+
+Shipping address: XjdjDjdjFjfj, Norfolk Island 2222AustraliaP: Djjdj
+Billing address: XjdjDjdjFjfj, Norfolk Island 2222AustraliaP: Djjdj
+
+Thanks,
+DAPPR, DAPPR
+
+© 2023 DAPPR. All rights reserved.
+  
+[2023-11-07 01:36:45] local.INFO: ........................... Message Sent Successfully .................................  
+[2023-11-07 01:36:45] local.INFO: test++++++++++++++{"id":3,"shop_id":"1","role_id":"3","name":"Briony Croft","nice_name":"Bri","email":"hello@dappr.com","dob":"1984-08-24","sex":"app.female","description":"<p>Hi my name is Briony, and I'm a senior stylist here at DAPPR!<\/p><p>I have worked in the fashion industry for over 15 years. I initially started with styling commercial and editorial projects for a number of different brands and eventually opened my own image agency for professionals over 10 years ago. I have a deep and sophisticated understanding of how a robust images contributes immeasurably to confidence and career growth.<\/p><p>We all have to wear clothing, so why not choose pieces that make you feel confident, unique, and memorable for all the right reasons.\u00a0<\/p><p>Confidence is the perfect fit!<\/p>","last_visited_at":null,"last_visited_from":null,"active":true,"read_announcements_at":"2022-05-03T09:01:16.000000Z","email_verified_at":null,"deleted_at":null,"created_at":"2022-04-09T00:57:00.000000Z","updated_at":"2023-04-23T08:02:08.000000Z"}  
+[2023-11-07 01:36:45] local.INFO: ............................. Message Sending .....................................  
+[2023-11-07 01:36:45] local.INFO: array (
+  'subject' => 'New order [Order ID: #277300] has been placed on your shop!',
+)  
+[2023-11-07 01:36:45] local.DEBUG: Message-ID: <1adbe4e91f7341f46214a885b46cfde0@test.dappr.com.au>
+Date: Tue, 07 Nov 2023 01:36:45 +1100
+Subject: New order [Order ID: #277300] has been placed on your shop!
+From: dappr <quicktest1901aga@gmail.com>
+Reply-To: Example <hello@example.com>
+To: hello@dappr.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1699281405_0dc2d9fde62e46d778b041ab66bbd488_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #f5f8fa; color: #74787E; height: 100%; hyphens: auto; line-height: 1.4; margin: 0; -moz-hyphens: auto; -ms-word-break: break-all; width: 100% !important; -webkit-hyphens: auto; -webkit-text-size-adjust: none; word-break: break-word;">
+<style>
+@media  only screen and (max-width: 600px) {
+.inner-body {
+width: 100% !important;
+}
+
+.footer {
+width: 100% !important;
+}
+}
+
+@media  only screen and (max-width: 500px) {
+.button {
+width: 100% !important;
+}
+}
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #f5f8fa; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table class="content" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td class="header" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 25px 0; text-align: center;">
+<a href="http://localhost/hype-dappr/public/" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #bbbfc3; font-size: 19px; font-weight: bold; text-decoration: none; text-shadow: 0 1px 0 white;">
+<img src="https://test.dappr.com.au/image/logo.png?p=full" width="200px" class="brand-logo" alt="DAPPR" title="DAPPR" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; max-width: 100%; border: none;">
+</a>
+</td>
+</tr>
+
+<!-- Email Body -->
+<tr>
+<td class="body" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #FFFFFF; border-bottom: 1px solid #EDEFF2; border-top: 1px solid #EDEFF2; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #FFFFFF; margin: 0 auto; padding: 0; width: 570px; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 570px;">
+<!-- Body content -->
+<tr>
+<td class="content-cell" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 35px;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">#Hello DAPPR</p>
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">A new order [Order ID #277300] has been placed. Please check the order detail and fulfill the order asap.
+<br></p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 30px auto; padding: 0; text-align: center; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table border="0" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<a href="https://test.dappr.com.au/admin/order/order/309" class="button button-blue" target="_blank" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; border-radius: 3px; box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16); color: #FFF; display: inline-block; text-decoration: none; -webkit-text-size-adjust: none; background-color: #3097D1; border-top: 10px solid #3097D1; border-right: 18px solid #3097D1; border-bottom: 10px solid #3097D1; border-left: 18px solid #3097D1;">Fulfill the order</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="panel" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0 0 21px;">
+<tr>
+<td class="panel-content" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #EDEFF2; padding: 16px;">
+<table width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td class="panel-item" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 0;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left; margin-bottom: 0; padding-bottom: 0;">Shop name: DAPPR<br>
+Order ID: #277300<br>
+Payment method: Stripe<br>
+Payment status: PAID<br>
+Order status:  <strong style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">CONFIRMED</strong><br>
+<br>
+Shipping address: </p>
+<address style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">Xjdj<br>Djdj<br>Fjfj, <br>Norfolk Island 2222<br>Australia<br><abbr title="Phone" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">P:</abbr> Djjdj</address>
+<br><br>
+Billing address: <address style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">Xjdj<br>Djdj<br>Fjfj, <br>Norfolk Island 2222<br>Australia<br><abbr title="Phone" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">P:</abbr> Djjdj</address>
+<br>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<br>
+Thanks,<br>
+DAPPR, DAPPR
+
+
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table class="footer" align="center" width="570" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0 auto; padding: 0; text-align: center; width: 570px; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 570px;">
+<tr>
+<td class="content-cell" align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 35px;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; line-height: 1.5em; margin-top: 0; color: #AEAEAE; font-size: 12px; text-align: center;">© 2023 DAPPR. All rights reserved.</p>
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+[](http://localhost/hype-dappr/public/)
+
+#Hello DAPPR
+
+A new order [Order ID #277300] has been placed. Please check the order detail and fulfill the order asap.
+
+Fulfill the order: https://test.dappr.com.au/admin/order/order/309
+
+Shop name: DAPPR
+Order ID: #277300
+Payment method: Stripe
+Payment status: PAID
+Order status:  CONFIRMED
+
+Shipping address: XjdjDjdjFjfj, Norfolk Island 2222AustraliaP: Djjdj
+Billing address: XjdjDjdjFjfj, Norfolk Island 2222AustraliaP: Djjdj
+
+Thanks,
+DAPPR, DAPPR
+
+© 2023 DAPPR. All rights reserved.
+  
+[2023-11-07 01:36:45] local.INFO: ........................... Message Sent Successfully .................................  
+[2023-11-07 01:45:44] local.ERROR: stripe payment failed:: Your card was declined. Your request was in test mode, but used a non test (live) card. For a list of valid test cards, visit: https://stripe.com/docs/testing.  
+[2023-11-07 01:45:44] local.ERROR: (Status 402) (Request req_KKXxrftRc2mqkQ) Your card was declined. Your request was in test mode, but used a non test (live) card. For a list of valid test cards, visit: https://stripe.com/docs/testing.  
+[2023-11-07 01:46:14] local.INFO: ............................. Message Sending .....................................  
+[2023-11-07 01:46:14] local.INFO: array (
+  'subject' => '[Order ID: #118491] Your order been paid successfully!',
+)  
+[2023-11-07 01:46:14] local.DEBUG: Message-ID: <4e88866da89bc657d4b93a57e31fd807@test.dappr.com.au>
+Date: Tue, 07 Nov 2023 01:46:14 +1100
+Subject: [Order ID: #118491] Your order been paid successfully!
+From: dappr <quicktest1901aga@gmail.com>
+Reply-To: Example <hello@example.com>
+To: 1_nov_testing_3@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1699281974_d10482e43b4149ead90ee8af44b7e2fd_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #f5f8fa; color: #74787E; height: 100%; hyphens: auto; line-height: 1.4; margin: 0; -moz-hyphens: auto; -ms-word-break: break-all; width: 100% !important; -webkit-hyphens: auto; -webkit-text-size-adjust: none; word-break: break-word;">
+<style>
+@media  only screen and (max-width: 600px) {
+.inner-body {
+width: 100% !important;
+}
+
+.footer {
+width: 100% !important;
+}
+}
+
+@media  only screen and (max-width: 500px) {
+.button {
+width: 100% !important;
+}
+}
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #f5f8fa; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table class="content" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td class="header" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 25px 0; text-align: center;">
+<a href="http://localhost/hype-dappr/public/" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #bbbfc3; font-size: 19px; font-weight: bold; text-decoration: none; text-shadow: 0 1px 0 white;">
+<img src="http://test.dappr.com.au/image/logo.png?p=full" width="200px" class="brand-logo" alt="DAPPR" title="DAPPR" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; max-width: 100%; border: none;">
+</a>
+</td>
+</tr>
+
+<!-- Email Body -->
+<tr>
+<td class="body" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #FFFFFF; border-bottom: 1px solid #EDEFF2; border-top: 1px solid #EDEFF2; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #FFFFFF; margin: 0 auto; padding: 0; width: 570px; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 570px;">
+<!-- Body content -->
+<tr>
+<td class="content-cell" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 35px;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">#Hello 1_nov_testing_3</p>
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">This is a notification to let you know that your order [Order ID #118491] has been paid successfully and it's on your way. Please see below for order detail. You can also check your orders from your dashboard.
+<br></p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 30px auto; padding: 0; text-align: center; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table border="0" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<a href="http://test.dappr.com.au" class="button button-green" target="_blank" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; border-radius: 3px; box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16); color: #FFF; display: inline-block; text-decoration: none; -webkit-text-size-adjust: none; background-color: #2ab27b; border-top: 10px solid #2ab27b; border-right: 18px solid #2ab27b; border-bottom: 10px solid #2ab27b; border-left: 18px solid #2ab27b;">Visit the shop</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="panel" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0 0 21px;">
+<tr>
+<td class="panel-content" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #EDEFF2; padding: 16px;">
+<table width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td class="panel-item" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 0;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left; margin-bottom: 0; padding-bottom: 0;">Shop name: DAPPR<br>
+Order ID: #118491<br>
+Payment method: Stripe<br>
+Payment status: PAID<br>
+Order status:  <strong style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">CONFIRMED</strong><br>
+<br>
+Shipping address: </p>
+<address style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">Crffdkdk<br>Dkdididid<br>Sidjdsjdid, <br>Heard Island and McDonald Islands 1212<br>Australia<br><abbr title="Phone" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">P:</abbr> Sid</address>
+<br><br>
+Billing address: <address style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">Crffdkdk<br>Dkdididid<br>Sidjdsjdid, <br>Heard Island and McDonald Islands 1212<br>Australia<br><abbr title="Phone" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">P:</abbr> Sid</address>
+<br>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<br>
+Thanks,<br>
+DAPPR, DAPPR
+
+
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table class="footer" align="center" width="570" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0 auto; padding: 0; text-align: center; width: 570px; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 570px;">
+<tr>
+<td class="content-cell" align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 35px;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; line-height: 1.5em; margin-top: 0; color: #AEAEAE; font-size: 12px; text-align: center;">© 2023 DAPPR. All rights reserved.</p>
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+[](http://localhost/hype-dappr/public/)
+
+#Hello 1_nov_testing_3
+
+This is a notification to let you know that your order [Order ID #118491] has been paid successfully and it's on your way. Please see below for order detail. You can also check your orders from your dashboard.
+
+Visit the shop: http://test.dappr.com.au
+
+Shop name: DAPPR
+Order ID: #118491
+Payment method: Stripe
+Payment status: PAID
+Order status:  CONFIRMED
+
+Shipping address: CrffdkdkDkdidididSidjdsjdid, Heard Island and McDonald Islands 1212AustraliaP: Sid
+Billing address: CrffdkdkDkdidididSidjdsjdid, Heard Island and McDonald Islands 1212AustraliaP: Sid
+
+Thanks,
+DAPPR, DAPPR
+
+© 2023 DAPPR. All rights reserved.
+  
+[2023-11-07 01:46:14] local.INFO: ........................... Message Sent Successfully .................................  
+[2023-11-07 01:46:14] local.INFO: ............................. Message Sending .....................................  
+[2023-11-07 01:46:14] local.INFO: array (
+  'subject' => '[Order ID: #118491] your order has been placed successfully!',
+)  
+[2023-11-07 01:46:14] local.DEBUG: Message-ID: <ce5868f0781a6236bb6bb79cffe73b51@test.dappr.com.au>
+Date: Tue, 07 Nov 2023 01:46:14 +1100
+Subject: [Order ID: #118491] your order has been placed successfully!
+From: dappr <quicktest1901aga@gmail.com>
+Reply-To: Example <hello@example.com>
+To: hello@dappr.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1699281974_49103d12141549679dc732c16730658a_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #f5f8fa; color: #74787E; height: 100%; hyphens: auto; line-height: 1.4; margin: 0; -moz-hyphens: auto; -ms-word-break: break-all; width: 100% !important; -webkit-hyphens: auto; -webkit-text-size-adjust: none; word-break: break-word;">
+<style>
+@media  only screen and (max-width: 600px) {
+.inner-body {
+width: 100% !important;
+}
+
+.footer {
+width: 100% !important;
+}
+}
+
+@media  only screen and (max-width: 500px) {
+.button {
+width: 100% !important;
+}
+}
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #f5f8fa; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table class="content" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td class="header" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 25px 0; text-align: center;">
+<a href="http://localhost/hype-dappr/public/" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #bbbfc3; font-size: 19px; font-weight: bold; text-decoration: none; text-shadow: 0 1px 0 white;">
+<img src="http://test.dappr.com.au/image/logo.png?p=full" width="200px" class="brand-logo" alt="DAPPR" title="DAPPR" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; max-width: 100%; border: none;">
+</a>
+</td>
+</tr>
+
+<!-- Email Body -->
+<tr>
+<td class="body" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #FFFFFF; border-bottom: 1px solid #EDEFF2; border-top: 1px solid #EDEFF2; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #FFFFFF; margin: 0 auto; padding: 0; width: 570px; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 570px;">
+<!-- Body content -->
+<tr>
+<td class="content-cell" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 35px;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">#Hello 1_nov_testing_3</p>
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">Thank you for choosing us! Your order [Order ID #118491] has been placed successfully. We'll let you know the status of the order.
+<br></p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 30px auto; padding: 0; text-align: center; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table border="0" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<a href="http://test.dappr.com.au" class="button button-blue" target="_blank" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; border-radius: 3px; box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16); color: #FFF; display: inline-block; text-decoration: none; -webkit-text-size-adjust: none; background-color: #3097D1; border-top: 10px solid #3097D1; border-right: 18px solid #3097D1; border-bottom: 10px solid #3097D1; border-left: 18px solid #3097D1;">Visit the shop</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="panel" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0 0 21px;">
+<tr>
+<td class="panel-content" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #EDEFF2; padding: 16px;">
+<table width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td class="panel-item" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 0;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left; margin-bottom: 0; padding-bottom: 0;">Shop name: DAPPR<br>
+Order ID: #118491<br>
+Payment method: Stripe<br>
+Payment status: PAID<br>
+Order status:  <strong style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">CONFIRMED</strong><br>
+<br>
+Shipping address: </p>
+<address style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">Crffdkdk<br>Dkdididid<br>Sidjdsjdid, <br>Heard Island and McDonald Islands 1212<br>Australia<br><abbr title="Phone" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">P:</abbr> Sid</address>
+<br><br>
+Billing address: <address style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">Crffdkdk<br>Dkdididid<br>Sidjdsjdid, <br>Heard Island and McDonald Islands 1212<br>Australia<br><abbr title="Phone" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">P:</abbr> Sid</address>
+<br>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<br>
+Thanks,<br>
+DAPPR, DAPPR
+
+
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table class="footer" align="center" width="570" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0 auto; padding: 0; text-align: center; width: 570px; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 570px;">
+<tr>
+<td class="content-cell" align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 35px;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; line-height: 1.5em; margin-top: 0; color: #AEAEAE; font-size: 12px; text-align: center;">© 2023 DAPPR. All rights reserved.</p>
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+[](http://localhost/hype-dappr/public/)
+
+#Hello 1_nov_testing_3
+
+Thank you for choosing us! Your order [Order ID #118491] has been placed successfully. We'll let you know the status of the order.
+
+Visit the shop: http://test.dappr.com.au
+
+Shop name: DAPPR
+Order ID: #118491
+Payment method: Stripe
+Payment status: PAID
+Order status:  CONFIRMED
+
+Shipping address: CrffdkdkDkdidididSidjdsjdid, Heard Island and McDonald Islands 1212AustraliaP: Sid
+Billing address: CrffdkdkDkdidididSidjdsjdid, Heard Island and McDonald Islands 1212AustraliaP: Sid
+
+Thanks,
+DAPPR, DAPPR
+
+© 2023 DAPPR. All rights reserved.
+  
+[2023-11-07 01:46:14] local.INFO: ........................... Message Sent Successfully .................................  
+[2023-11-07 01:46:14] local.INFO: ............................. Message Sending .....................................  
+[2023-11-07 01:46:14] local.INFO: array (
+  'subject' => '[Order ID: #118491] your order has been placed successfully!',
+)  
+[2023-11-07 01:46:14] local.DEBUG: Message-ID: <db6b63bf58bd1a31a1983a9d8c1c6531@test.dappr.com.au>
+Date: Tue, 07 Nov 2023 01:46:14 +1100
+Subject: [Order ID: #118491] your order has been placed successfully!
+From: dappr <quicktest1901aga@gmail.com>
+Reply-To: Example <hello@example.com>
+To: 1_nov_testing_3@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1699281974_9a5fe330bcfaa3a1ed2394973752a058_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #f5f8fa; color: #74787E; height: 100%; hyphens: auto; line-height: 1.4; margin: 0; -moz-hyphens: auto; -ms-word-break: break-all; width: 100% !important; -webkit-hyphens: auto; -webkit-text-size-adjust: none; word-break: break-word;">
+<style>
+@media  only screen and (max-width: 600px) {
+.inner-body {
+width: 100% !important;
+}
+
+.footer {
+width: 100% !important;
+}
+}
+
+@media  only screen and (max-width: 500px) {
+.button {
+width: 100% !important;
+}
+}
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #f5f8fa; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table class="content" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td class="header" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 25px 0; text-align: center;">
+<a href="http://localhost/hype-dappr/public/" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #bbbfc3; font-size: 19px; font-weight: bold; text-decoration: none; text-shadow: 0 1px 0 white;">
+<img src="http://test.dappr.com.au/image/logo.png?p=full" width="200px" class="brand-logo" alt="DAPPR" title="DAPPR" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; max-width: 100%; border: none;">
+</a>
+</td>
+</tr>
+
+<!-- Email Body -->
+<tr>
+<td class="body" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #FFFFFF; border-bottom: 1px solid #EDEFF2; border-top: 1px solid #EDEFF2; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #FFFFFF; margin: 0 auto; padding: 0; width: 570px; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 570px;">
+<!-- Body content -->
+<tr>
+<td class="content-cell" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 35px;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">#Hello 1_nov_testing_3</p>
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">Thank you for choosing us! Your order [Order ID #118491] has been placed successfully. We'll let you know the status of the order.
+<br></p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 30px auto; padding: 0; text-align: center; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table border="0" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<a href="http://test.dappr.com.au" class="button button-blue" target="_blank" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; border-radius: 3px; box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16); color: #FFF; display: inline-block; text-decoration: none; -webkit-text-size-adjust: none; background-color: #3097D1; border-top: 10px solid #3097D1; border-right: 18px solid #3097D1; border-bottom: 10px solid #3097D1; border-left: 18px solid #3097D1;">Visit the shop</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="panel" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0 0 21px;">
+<tr>
+<td class="panel-content" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #EDEFF2; padding: 16px;">
+<table width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td class="panel-item" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 0;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left; margin-bottom: 0; padding-bottom: 0;">Shop name: DAPPR<br>
+Order ID: #118491<br>
+Payment method: Stripe<br>
+Payment status: PAID<br>
+Order status:  <strong style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">CONFIRMED</strong><br>
+<br>
+Shipping address: </p>
+<address style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">Crffdkdk<br>Dkdididid<br>Sidjdsjdid, <br>Heard Island and McDonald Islands 1212<br>Australia<br><abbr title="Phone" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">P:</abbr> Sid</address>
+<br><br>
+Billing address: <address style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">Crffdkdk<br>Dkdididid<br>Sidjdsjdid, <br>Heard Island and McDonald Islands 1212<br>Australia<br><abbr title="Phone" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">P:</abbr> Sid</address>
+<br>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<br>
+Thanks,<br>
+DAPPR, DAPPR
+
+
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table class="footer" align="center" width="570" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0 auto; padding: 0; text-align: center; width: 570px; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 570px;">
+<tr>
+<td class="content-cell" align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 35px;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; line-height: 1.5em; margin-top: 0; color: #AEAEAE; font-size: 12px; text-align: center;">© 2023 DAPPR. All rights reserved.</p>
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+[](http://localhost/hype-dappr/public/)
+
+#Hello 1_nov_testing_3
+
+Thank you for choosing us! Your order [Order ID #118491] has been placed successfully. We'll let you know the status of the order.
+
+Visit the shop: http://test.dappr.com.au
+
+Shop name: DAPPR
+Order ID: #118491
+Payment method: Stripe
+Payment status: PAID
+Order status:  CONFIRMED
+
+Shipping address: CrffdkdkDkdidididSidjdsjdid, Heard Island and McDonald Islands 1212AustraliaP: Sid
+Billing address: CrffdkdkDkdidididSidjdsjdid, Heard Island and McDonald Islands 1212AustraliaP: Sid
+
+Thanks,
+DAPPR, DAPPR
+
+© 2023 DAPPR. All rights reserved.
+  
+[2023-11-07 01:46:14] local.INFO: ........................... Message Sent Successfully .................................  
+[2023-11-07 01:46:14] local.INFO: test++++++++++++++{"id":3,"shop_id":"1","role_id":"3","name":"Briony Croft","nice_name":"Bri","email":"hello@dappr.com","dob":"1984-08-24","sex":"app.female","description":"<p>Hi my name is Briony, and I'm a senior stylist here at DAPPR!<\/p><p>I have worked in the fashion industry for over 15 years. I initially started with styling commercial and editorial projects for a number of different brands and eventually opened my own image agency for professionals over 10 years ago. I have a deep and sophisticated understanding of how a robust images contributes immeasurably to confidence and career growth.<\/p><p>We all have to wear clothing, so why not choose pieces that make you feel confident, unique, and memorable for all the right reasons.\u00a0<\/p><p>Confidence is the perfect fit!<\/p>","last_visited_at":null,"last_visited_from":null,"active":true,"read_announcements_at":"2022-05-03T09:01:16.000000Z","email_verified_at":null,"deleted_at":null,"created_at":"2022-04-09T00:57:00.000000Z","updated_at":"2023-04-23T08:02:08.000000Z"}  
+[2023-11-07 01:46:14] local.INFO: ............................. Message Sending .....................................  
+[2023-11-07 01:46:14] local.INFO: array (
+  'subject' => 'New order [Order ID: #118491] has been placed on your shop!',
+)  
+[2023-11-07 01:46:14] local.DEBUG: Message-ID: <ac0ab23603e1f362e40f11817e5497cb@test.dappr.com.au>
+Date: Tue, 07 Nov 2023 01:46:14 +1100
+Subject: New order [Order ID: #118491] has been placed on your shop!
+From: dappr <quicktest1901aga@gmail.com>
+Reply-To: Example <hello@example.com>
+To: hello@dappr.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1699281974_7c5e7804d3b63a17193daf3028ed4743_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #f5f8fa; color: #74787E; height: 100%; hyphens: auto; line-height: 1.4; margin: 0; -moz-hyphens: auto; -ms-word-break: break-all; width: 100% !important; -webkit-hyphens: auto; -webkit-text-size-adjust: none; word-break: break-word;">
+<style>
+@media  only screen and (max-width: 600px) {
+.inner-body {
+width: 100% !important;
+}
+
+.footer {
+width: 100% !important;
+}
+}
+
+@media  only screen and (max-width: 500px) {
+.button {
+width: 100% !important;
+}
+}
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #f5f8fa; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table class="content" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td class="header" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 25px 0; text-align: center;">
+<a href="http://localhost/hype-dappr/public/" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #bbbfc3; font-size: 19px; font-weight: bold; text-decoration: none; text-shadow: 0 1px 0 white;">
+<img src="http://test.dappr.com.au/image/logo.png?p=full" width="200px" class="brand-logo" alt="DAPPR" title="DAPPR" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; max-width: 100%; border: none;">
+</a>
+</td>
+</tr>
+
+<!-- Email Body -->
+<tr>
+<td class="body" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #FFFFFF; border-bottom: 1px solid #EDEFF2; border-top: 1px solid #EDEFF2; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #FFFFFF; margin: 0 auto; padding: 0; width: 570px; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 570px;">
+<!-- Body content -->
+<tr>
+<td class="content-cell" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 35px;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">#Hello DAPPR</p>
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">A new order [Order ID #118491] has been placed. Please check the order detail and fulfill the order asap.
+<br></p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 30px auto; padding: 0; text-align: center; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table border="0" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<a href="http://test.dappr.com.au/admin/order/order/311" class="button button-blue" target="_blank" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; border-radius: 3px; box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16); color: #FFF; display: inline-block; text-decoration: none; -webkit-text-size-adjust: none; background-color: #3097D1; border-top: 10px solid #3097D1; border-right: 18px solid #3097D1; border-bottom: 10px solid #3097D1; border-left: 18px solid #3097D1;">Fulfill the order</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="panel" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0 0 21px;">
+<tr>
+<td class="panel-content" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #EDEFF2; padding: 16px;">
+<table width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td class="panel-item" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 0;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left; margin-bottom: 0; padding-bottom: 0;">Shop name: DAPPR<br>
+Order ID: #118491<br>
+Payment method: Stripe<br>
+Payment status: PAID<br>
+Order status:  <strong style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">CONFIRMED</strong><br>
+<br>
+Shipping address: </p>
+<address style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">Crffdkdk<br>Dkdididid<br>Sidjdsjdid, <br>Heard Island and McDonald Islands 1212<br>Australia<br><abbr title="Phone" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">P:</abbr> Sid</address>
+<br><br>
+Billing address: <address style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">Crffdkdk<br>Dkdididid<br>Sidjdsjdid, <br>Heard Island and McDonald Islands 1212<br>Australia<br><abbr title="Phone" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">P:</abbr> Sid</address>
+<br>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<br>
+Thanks,<br>
+DAPPR, DAPPR
+
+
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table class="footer" align="center" width="570" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0 auto; padding: 0; text-align: center; width: 570px; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 570px;">
+<tr>
+<td class="content-cell" align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 35px;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; line-height: 1.5em; margin-top: 0; color: #AEAEAE; font-size: 12px; text-align: center;">© 2023 DAPPR. All rights reserved.</p>
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+[](http://localhost/hype-dappr/public/)
+
+#Hello DAPPR
+
+A new order [Order ID #118491] has been placed. Please check the order detail and fulfill the order asap.
+
+Fulfill the order: http://test.dappr.com.au/admin/order/order/311
+
+Shop name: DAPPR
+Order ID: #118491
+Payment method: Stripe
+Payment status: PAID
+Order status:  CONFIRMED
+
+Shipping address: CrffdkdkDkdidididSidjdsjdid, Heard Island and McDonald Islands 1212AustraliaP: Sid
+Billing address: CrffdkdkDkdidididSidjdsjdid, Heard Island and McDonald Islands 1212AustraliaP: Sid
+
+Thanks,
+DAPPR, DAPPR
+
+© 2023 DAPPR. All rights reserved.
+  
+[2023-11-07 01:46:14] local.INFO: ........................... Message Sent Successfully .................................  
+[2023-11-07 21:52:03] local.INFO: ............................. Message Sending .....................................  
+[2023-11-07 21:52:03] local.INFO: array (
+  'subject' => 'Welcome to the DAPPR marketplace!',
+)  
+[2023-11-07 21:52:03] local.DEBUG: Message-ID: <f4bc52748fb391a7698f1c5548b2fd77@test.dappr.com.au>
+Date: Tue, 07 Nov 2023 21:52:03 +1100
+Subject: Welcome to the DAPPR marketplace!
+From: dappr <quicktest1901aga@gmail.com>
+Reply-To: Example <hello@example.com>
+To: superadmin@dappr.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1699354323_78051c7639cc33205c64bc6ed232fd7a_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #f5f8fa; color: #74787E; height: 100%; hyphens: auto; line-height: 1.4; margin: 0; -moz-hyphens: auto; -ms-word-break: break-all; width: 100% !important; -webkit-hyphens: auto; -webkit-text-size-adjust: none; word-break: break-word;">
+<style>
+@media  only screen and (max-width: 600px) {
+.inner-body {
+width: 100% !important;
+}
+
+.footer {
+width: 100% !important;
+}
+}
+
+@media  only screen and (max-width: 500px) {
+.button {
+width: 100% !important;
+}
+}
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #f5f8fa; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table class="content" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td class="header" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 25px 0; text-align: center;">
+<a href="http://localhost/hype-dappr/public/" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #bbbfc3; font-size: 19px; font-weight: bold; text-decoration: none; text-shadow: 0 1px 0 white;">
+<img src="http://test.dappr.com.au/image/logo.png?p=full" width="200px" class="brand-logo" alt="DAPPR" title="DAPPR" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; max-width: 100%; border: none;">
+</a>
+</td>
+</tr>
+
+<!-- Email Body -->
+<tr>
+<td class="body" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #FFFFFF; border-bottom: 1px solid #EDEFF2; border-top: 1px solid #EDEFF2; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #FFFFFF; margin: 0 auto; padding: 0; width: 570px; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 570px;">
+<!-- Body content -->
+<tr>
+<td class="content-cell" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 35px;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">#Congratulation 7_nov_test_1!</p>
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">Your account has been created successfully! Click the button below to verify your email address.
+<br></p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 30px auto; padding: 0; text-align: center; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table border="0" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<a href="http://test.dappr.com.au/customer/verify/fo3VLCPmpWTKebjgn3wbJOwug2cLO6pWnpSfHQ9s" class="button button-blue" target="_blank" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; border-radius: 3px; box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16); color: #FFF; display: inline-block; text-decoration: none; -webkit-text-size-adjust: none; background-color: #3097D1; border-top: 10px solid #3097D1; border-right: 18px solid #3097D1; border-bottom: 10px solid #3097D1; border-left: 18px solid #3097D1;">Verify me</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">Thanks,<br>
+DAPPR</p>
+
+
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table class="footer" align="center" width="570" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0 auto; padding: 0; text-align: center; width: 570px; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 570px;">
+<tr>
+<td class="content-cell" align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 35px;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; line-height: 1.5em; margin-top: 0; color: #AEAEAE; font-size: 12px; text-align: center;">© 2023 DAPPR. All rights reserved.</p>
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+[](http://localhost/hype-dappr/public/)
+
+#Congratulation 7_nov_test_1!
+
+Your account has been created successfully! Click the button below to verify your email address.
+
+Verify me: http://test.dappr.com.au/customer/verify/fo3VLCPmpWTKebjgn3wbJOwug2cLO6pWnpSfHQ9s
+
+Thanks,
+DAPPR
+
+© 2023 DAPPR. All rights reserved.
+  
+[2023-11-07 21:52:03] local.INFO: ........................... Message Sent Successfully .................................  
+[2023-11-07 21:52:03] local.INFO: ............................. Message Sending .....................................  
+[2023-11-07 21:52:03] local.INFO: array (
+  'subject' => 'Welcome to the DAPPR marketplace!',
+)  
+[2023-11-07 21:52:03] local.DEBUG: Message-ID: <40d0e327fc4f9c1ddf568101eaa3683e@test.dappr.com.au>
+Date: Tue, 07 Nov 2023 21:52:03 +1100
+Subject: Welcome to the DAPPR marketplace!
+From: dappr <quicktest1901aga@gmail.com>
+Reply-To: Example <hello@example.com>
+To: admin@dappr.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1699354323_fa4cf06a49e6e4c39b29546a1a657f4b_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #f5f8fa; color: #74787E; height: 100%; hyphens: auto; line-height: 1.4; margin: 0; -moz-hyphens: auto; -ms-word-break: break-all; width: 100% !important; -webkit-hyphens: auto; -webkit-text-size-adjust: none; word-break: break-word;">
+<style>
+@media  only screen and (max-width: 600px) {
+.inner-body {
+width: 100% !important;
+}
+
+.footer {
+width: 100% !important;
+}
+}
+
+@media  only screen and (max-width: 500px) {
+.button {
+width: 100% !important;
+}
+}
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #f5f8fa; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table class="content" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td class="header" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 25px 0; text-align: center;">
+<a href="http://localhost/hype-dappr/public/" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #bbbfc3; font-size: 19px; font-weight: bold; text-decoration: none; text-shadow: 0 1px 0 white;">
+<img src="http://test.dappr.com.au/image/logo.png?p=full" width="200px" class="brand-logo" alt="DAPPR" title="DAPPR" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; max-width: 100%; border: none;">
+</a>
+</td>
+</tr>
+
+<!-- Email Body -->
+<tr>
+<td class="body" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #FFFFFF; border-bottom: 1px solid #EDEFF2; border-top: 1px solid #EDEFF2; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #FFFFFF; margin: 0 auto; padding: 0; width: 570px; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 570px;">
+<!-- Body content -->
+<tr>
+<td class="content-cell" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 35px;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">#Congratulation 7_nov_test_1!</p>
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">Your account has been created successfully! Click the button below to verify your email address.
+<br></p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 30px auto; padding: 0; text-align: center; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table border="0" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<a href="http://test.dappr.com.au/customer/verify/fo3VLCPmpWTKebjgn3wbJOwug2cLO6pWnpSfHQ9s" class="button button-blue" target="_blank" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; border-radius: 3px; box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16); color: #FFF; display: inline-block; text-decoration: none; -webkit-text-size-adjust: none; background-color: #3097D1; border-top: 10px solid #3097D1; border-right: 18px solid #3097D1; border-bottom: 10px solid #3097D1; border-left: 18px solid #3097D1;">Verify me</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">Thanks,<br>
+DAPPR</p>
+
+
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table class="footer" align="center" width="570" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0 auto; padding: 0; text-align: center; width: 570px; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 570px;">
+<tr>
+<td class="content-cell" align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 35px;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; line-height: 1.5em; margin-top: 0; color: #AEAEAE; font-size: 12px; text-align: center;">© 2023 DAPPR. All rights reserved.</p>
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+[](http://localhost/hype-dappr/public/)
+
+#Congratulation 7_nov_test_1!
+
+Your account has been created successfully! Click the button below to verify your email address.
+
+Verify me: http://test.dappr.com.au/customer/verify/fo3VLCPmpWTKebjgn3wbJOwug2cLO6pWnpSfHQ9s
+
+Thanks,
+DAPPR
+
+© 2023 DAPPR. All rights reserved.
+  
+[2023-11-07 21:52:03] local.INFO: ........................... Message Sent Successfully .................................  
+[2023-11-07 21:52:03] local.INFO: ............................. Message Sending .....................................  
+[2023-11-07 21:52:03] local.INFO: array (
+  'subject' => 'Welcome to the DAPPR marketplace!',
+)  
+[2023-11-07 21:52:03] local.DEBUG: Message-ID: <c86a6bbb597d18bdc5d841824b800cc4@test.dappr.com.au>
+Date: Tue, 07 Nov 2023 21:52:03 +1100
+Subject: Welcome to the DAPPR marketplace!
+From: dappr <quicktest1901aga@gmail.com>
+Reply-To: Example <hello@example.com>
+To: hello@dappr.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1699354323_e21f5184d5ad41ae04f14541851b387d_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #f5f8fa; color: #74787E; height: 100%; hyphens: auto; line-height: 1.4; margin: 0; -moz-hyphens: auto; -ms-word-break: break-all; width: 100% !important; -webkit-hyphens: auto; -webkit-text-size-adjust: none; word-break: break-word;">
+<style>
+@media  only screen and (max-width: 600px) {
+.inner-body {
+width: 100% !important;
+}
+
+.footer {
+width: 100% !important;
+}
+}
+
+@media  only screen and (max-width: 500px) {
+.button {
+width: 100% !important;
+}
+}
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #f5f8fa; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table class="content" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td class="header" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 25px 0; text-align: center;">
+<a href="http://localhost/hype-dappr/public/" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #bbbfc3; font-size: 19px; font-weight: bold; text-decoration: none; text-shadow: 0 1px 0 white;">
+<img src="http://test.dappr.com.au/image/logo.png?p=full" width="200px" class="brand-logo" alt="DAPPR" title="DAPPR" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; max-width: 100%; border: none;">
+</a>
+</td>
+</tr>
+
+<!-- Email Body -->
+<tr>
+<td class="body" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #FFFFFF; border-bottom: 1px solid #EDEFF2; border-top: 1px solid #EDEFF2; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #FFFFFF; margin: 0 auto; padding: 0; width: 570px; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 570px;">
+<!-- Body content -->
+<tr>
+<td class="content-cell" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 35px;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">#Congratulation 7_nov_test_1!</p>
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">Your account has been created successfully! Click the button below to verify your email address.
+<br></p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 30px auto; padding: 0; text-align: center; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table border="0" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<a href="http://test.dappr.com.au/customer/verify/fo3VLCPmpWTKebjgn3wbJOwug2cLO6pWnpSfHQ9s" class="button button-blue" target="_blank" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; border-radius: 3px; box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16); color: #FFF; display: inline-block; text-decoration: none; -webkit-text-size-adjust: none; background-color: #3097D1; border-top: 10px solid #3097D1; border-right: 18px solid #3097D1; border-bottom: 10px solid #3097D1; border-left: 18px solid #3097D1;">Verify me</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">Thanks,<br>
+DAPPR</p>
+
+
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table class="footer" align="center" width="570" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0 auto; padding: 0; text-align: center; width: 570px; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 570px;">
+<tr>
+<td class="content-cell" align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 35px;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; line-height: 1.5em; margin-top: 0; color: #AEAEAE; font-size: 12px; text-align: center;">© 2023 DAPPR. All rights reserved.</p>
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+[](http://localhost/hype-dappr/public/)
+
+#Congratulation 7_nov_test_1!
+
+Your account has been created successfully! Click the button below to verify your email address.
+
+Verify me: http://test.dappr.com.au/customer/verify/fo3VLCPmpWTKebjgn3wbJOwug2cLO6pWnpSfHQ9s
+
+Thanks,
+DAPPR
+
+© 2023 DAPPR. All rights reserved.
+  
+[2023-11-07 21:52:03] local.INFO: ........................... Message Sent Successfully .................................  
+[2023-11-07 21:52:03] local.INFO: ............................. Message Sending .....................................  
+[2023-11-07 21:52:03] local.INFO: array (
+  'subject' => 'Welcome to the DAPPR marketplace!',
+)  
+[2023-11-07 21:52:03] local.DEBUG: Message-ID: <729da175b3434cd5f99ba97a800aa136@test.dappr.com.au>
+Date: Tue, 07 Nov 2023 21:52:03 +1100
+Subject: Welcome to the DAPPR marketplace!
+From: dappr <quicktest1901aga@gmail.com>
+Reply-To: Example <hello@example.com>
+To: stylist2@dappr.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1699354323_46265ff51ba17437a936bd94b4468763_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #f5f8fa; color: #74787E; height: 100%; hyphens: auto; line-height: 1.4; margin: 0; -moz-hyphens: auto; -ms-word-break: break-all; width: 100% !important; -webkit-hyphens: auto; -webkit-text-size-adjust: none; word-break: break-word;">
+<style>
+@media  only screen and (max-width: 600px) {
+.inner-body {
+width: 100% !important;
+}
+
+.footer {
+width: 100% !important;
+}
+}
+
+@media  only screen and (max-width: 500px) {
+.button {
+width: 100% !important;
+}
+}
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #f5f8fa; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table class="content" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td class="header" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 25px 0; text-align: center;">
+<a href="http://localhost/hype-dappr/public/" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #bbbfc3; font-size: 19px; font-weight: bold; text-decoration: none; text-shadow: 0 1px 0 white;">
+<img src="http://test.dappr.com.au/image/logo.png?p=full" width="200px" class="brand-logo" alt="DAPPR" title="DAPPR" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; max-width: 100%; border: none;">
+</a>
+</td>
+</tr>
+
+<!-- Email Body -->
+<tr>
+<td class="body" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #FFFFFF; border-bottom: 1px solid #EDEFF2; border-top: 1px solid #EDEFF2; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #FFFFFF; margin: 0 auto; padding: 0; width: 570px; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 570px;">
+<!-- Body content -->
+<tr>
+<td class="content-cell" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 35px;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">#Congratulation 7_nov_test_1!</p>
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">Your account has been created successfully! Click the button below to verify your email address.
+<br></p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 30px auto; padding: 0; text-align: center; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table border="0" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<a href="http://test.dappr.com.au/customer/verify/fo3VLCPmpWTKebjgn3wbJOwug2cLO6pWnpSfHQ9s" class="button button-blue" target="_blank" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; border-radius: 3px; box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16); color: #FFF; display: inline-block; text-decoration: none; -webkit-text-size-adjust: none; background-color: #3097D1; border-top: 10px solid #3097D1; border-right: 18px solid #3097D1; border-bottom: 10px solid #3097D1; border-left: 18px solid #3097D1;">Verify me</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">Thanks,<br>
+DAPPR</p>
+
+
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table class="footer" align="center" width="570" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0 auto; padding: 0; text-align: center; width: 570px; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 570px;">
+<tr>
+<td class="content-cell" align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 35px;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; line-height: 1.5em; margin-top: 0; color: #AEAEAE; font-size: 12px; text-align: center;">© 2023 DAPPR. All rights reserved.</p>
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+[](http://localhost/hype-dappr/public/)
+
+#Congratulation 7_nov_test_1!
+
+Your account has been created successfully! Click the button below to verify your email address.
+
+Verify me: http://test.dappr.com.au/customer/verify/fo3VLCPmpWTKebjgn3wbJOwug2cLO6pWnpSfHQ9s
+
+Thanks,
+DAPPR
+
+© 2023 DAPPR. All rights reserved.
+  
+[2023-11-07 21:52:03] local.INFO: ........................... Message Sent Successfully .................................  
+[2023-11-07 21:52:03] local.INFO: ............................. Message Sending .....................................  
+[2023-11-07 21:52:03] local.INFO: array (
+  'subject' => 'Welcome to the DAPPR marketplace!',
+)  
+[2023-11-07 21:52:03] local.DEBUG: Message-ID: <9cc13dc4d25a973f5df4cc19f15afe1e@test.dappr.com.au>
+Date: Tue, 07 Nov 2023 21:52:03 +1100
+Subject: Welcome to the DAPPR marketplace!
+From: dappr <quicktest1901aga@gmail.com>
+Reply-To: Example <hello@example.com>
+To: help@dappr.com.au
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1699354323_da60143c0153f7942b66b2e06eb46e1c_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #f5f8fa; color: #74787E; height: 100%; hyphens: auto; line-height: 1.4; margin: 0; -moz-hyphens: auto; -ms-word-break: break-all; width: 100% !important; -webkit-hyphens: auto; -webkit-text-size-adjust: none; word-break: break-word;">
+<style>
+@media  only screen and (max-width: 600px) {
+.inner-body {
+width: 100% !important;
+}
+
+.footer {
+width: 100% !important;
+}
+}
+
+@media  only screen and (max-width: 500px) {
+.button {
+width: 100% !important;
+}
+}
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #f5f8fa; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table class="content" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td class="header" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 25px 0; text-align: center;">
+<a href="http://localhost/hype-dappr/public/" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #bbbfc3; font-size: 19px; font-weight: bold; text-decoration: none; text-shadow: 0 1px 0 white;">
+<img src="http://test.dappr.com.au/image/logo.png?p=full" width="200px" class="brand-logo" alt="DAPPR" title="DAPPR" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; max-width: 100%; border: none;">
+</a>
+</td>
+</tr>
+
+<!-- Email Body -->
+<tr>
+<td class="body" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #FFFFFF; border-bottom: 1px solid #EDEFF2; border-top: 1px solid #EDEFF2; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #FFFFFF; margin: 0 auto; padding: 0; width: 570px; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 570px;">
+<!-- Body content -->
+<tr>
+<td class="content-cell" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 35px;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">#Congratulation 7_nov_test_1!</p>
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">Your account has been created successfully! Click the button below to verify your email address.
+<br></p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 30px auto; padding: 0; text-align: center; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table border="0" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<a href="http://test.dappr.com.au/customer/verify/fo3VLCPmpWTKebjgn3wbJOwug2cLO6pWnpSfHQ9s" class="button button-blue" target="_blank" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; border-radius: 3px; box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16); color: #FFF; display: inline-block; text-decoration: none; -webkit-text-size-adjust: none; background-color: #3097D1; border-top: 10px solid #3097D1; border-right: 18px solid #3097D1; border-bottom: 10px solid #3097D1; border-left: 18px solid #3097D1;">Verify me</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">Thanks,<br>
+DAPPR</p>
+
+
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table class="footer" align="center" width="570" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0 auto; padding: 0; text-align: center; width: 570px; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 570px;">
+<tr>
+<td class="content-cell" align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 35px;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; line-height: 1.5em; margin-top: 0; color: #AEAEAE; font-size: 12px; text-align: center;">© 2023 DAPPR. All rights reserved.</p>
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+[](http://localhost/hype-dappr/public/)
+
+#Congratulation 7_nov_test_1!
+
+Your account has been created successfully! Click the button below to verify your email address.
+
+Verify me: http://test.dappr.com.au/customer/verify/fo3VLCPmpWTKebjgn3wbJOwug2cLO6pWnpSfHQ9s
+
+Thanks,
+DAPPR
+
+© 2023 DAPPR. All rights reserved.
+  
+[2023-11-07 21:52:03] local.INFO: ........................... Message Sent Successfully .................................  
+[2023-11-07 21:52:03] local.INFO: ............................. Message Sending .....................................  
+[2023-11-07 21:52:03] local.INFO: array (
+  'subject' => 'Welcome to the DAPPR marketplace!',
+)  
+[2023-11-07 21:52:03] local.DEBUG: Message-ID: <b1a1b0fe08fbbda2b111416fcde11321@test.dappr.com.au>
+Date: Tue, 07 Nov 2023 21:52:03 +1100
+Subject: Welcome to the DAPPR marketplace!
+From: dappr <quicktest1901aga@gmail.com>
+Reply-To: Example <hello@example.com>
+To: 7_nov_test_1@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1699354323_d7c4ce34b27cd0a47f927a44900a152e_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #f5f8fa; color: #74787E; height: 100%; hyphens: auto; line-height: 1.4; margin: 0; -moz-hyphens: auto; -ms-word-break: break-all; width: 100% !important; -webkit-hyphens: auto; -webkit-text-size-adjust: none; word-break: break-word;">
+<style>
+@media  only screen and (max-width: 600px) {
+.inner-body {
+width: 100% !important;
+}
+
+.footer {
+width: 100% !important;
+}
+}
+
+@media  only screen and (max-width: 500px) {
+.button {
+width: 100% !important;
+}
+}
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #f5f8fa; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table class="content" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td class="header" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 25px 0; text-align: center;">
+<a href="http://localhost/hype-dappr/public/" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #bbbfc3; font-size: 19px; font-weight: bold; text-decoration: none; text-shadow: 0 1px 0 white;">
+<img src="http://test.dappr.com.au/image/logo.png?p=full" width="200px" class="brand-logo" alt="DAPPR" title="DAPPR" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; max-width: 100%; border: none;">
+</a>
+</td>
+</tr>
+
+<!-- Email Body -->
+<tr>
+<td class="body" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #FFFFFF; border-bottom: 1px solid #EDEFF2; border-top: 1px solid #EDEFF2; margin: 0; padding: 0; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; background-color: #FFFFFF; margin: 0 auto; padding: 0; width: 570px; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 570px;">
+<!-- Body content -->
+<tr>
+<td class="content-cell" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 35px;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">#Congratulation 7_nov_test_1!</p>
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">Your account has been created successfully! Click the button below to verify your email address.
+<br></p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 30px auto; padding: 0; text-align: center; width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table border="0" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<tr>
+<td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<a href="http://test.dappr.com.au/customer/verify/fo3VLCPmpWTKebjgn3wbJOwug2cLO6pWnpSfHQ9s" class="button button-blue" target="_blank" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; border-radius: 3px; box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16); color: #FFF; display: inline-block; text-decoration: none; -webkit-text-size-adjust: none; background-color: #3097D1; border-top: 10px solid #3097D1; border-right: 18px solid #3097D1; border-bottom: 10px solid #3097D1; border-left: 18px solid #3097D1;">Verify me</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; color: #74787E; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">Thanks,<br>
+DAPPR</p>
+
+
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box;">
+<table class="footer" align="center" width="570" cellpadding="0" cellspacing="0" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; margin: 0 auto; padding: 0; text-align: center; width: 570px; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 570px;">
+<tr>
+<td class="content-cell" align="center" style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; padding: 35px;">
+<p style="font-family: Avenir, Helvetica, sans-serif; box-sizing: border-box; line-height: 1.5em; margin-top: 0; color: #AEAEAE; font-size: 12px; text-align: center;">© 2023 DAPPR. All rights reserved.</p>
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+[](http://localhost/hype-dappr/public/)
+
+#Congratulation 7_nov_test_1!
+
+Your account has been created successfully! Click the button below to verify your email address.
+
+Verify me: http://test.dappr.com.au/customer/verify/fo3VLCPmpWTKebjgn3wbJOwug2cLO6pWnpSfHQ9s
+
+Thanks,
+DAPPR
+
+© 2023 DAPPR. All rights reserved.
+  
+[2023-11-07 21:52:03] local.INFO: ........................... Message Sent Successfully .................................  
